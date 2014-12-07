@@ -1,0 +1,372 @@
+ἐκέλευσα<br><br>1 Present;κελεύω
+κελεύω<br><br>2 Future;κελεύσω
+κελεύω<br><br>3 Aorist;ἐκέλευσα
+κελεύω<br><br>4 Perfect;κεκέλευκα
+κελεύω<br><br>5 Perfect Passive;κεκέλευσμαι
+κελεύω<br><br>6 Aorist Passive;ἐκελεύσθην
+ἔλυσα<br><br>1 Present;λύ̄ω
+λύω<br><br>2 Future;λύ̄σω
+λύω<br><br>3 Aorist;ἔλῡσα
+λύω<br><br>4 Perfect;λέλυκα
+λύω<br><br>5 Perfect Passive;λέλυμαι
+λύω<br><br>6 Aorist Passive;ἐλύθην
+ἐπαίδευσα<br><br>1 Present;παιδεύω
+παιδεύω<br><br>2 Future;παιδεύσω
+παιδεύω<br><br>3 Aorist;ἐπαίδευσα
+παιδεύω<br><br>4 Perfect;πεπαίδευκα
+παιδεύω<br><br>5 Perfect Passive;πεπαίδευμαι
+παιδεύω<br><br>6 Aorist Passive;ἐπαιδεύθην
+ἔπεμψα<br><br>1 Present;πέμπω
+πέμπω<br><br>2 Future;πέμψω
+πέμπω<br><br>3 Aorist;ἔπεμψα
+πέμπω<br><br>4 Perfect;πέπομφα
+πέμπω<br><br>5 Perfect Passive;πέπεμμαι
+πέμπω<br><br>6 Aorist Passive;ἐπέμφθην
+ἔγραψα<br><br>1 Present;γράφω
+γράφω<br><br>2 Future;γράψω
+γράφω<br><br>3 Aorist;ἔγραψα
+γράφω<br><br>4 Perfect;γέγραφα
+γράφω<br><br>5 Perfect Passive;γέγραμμαι
+γράφω<br><br>6 Aorist Passive;ἐγράφην
+ἔθυσα<br><br>1 Present;θύ̄ω
+θύω<br><br>2 Future;θύ̄σω
+θύω<br><br>3 Aorist;ἔθῡσα
+θύω<br><br>4 Perfect;τέθυκα
+θύω<br><br>5 Perfect Passive;τέθυμαι
+θύω<br><br>6 Aorist Passive;ἐτύθην
+ἔπαυσα<br><br>1 Present;παύω
+παύω<br><br>2 Future;παύσω
+παύω<br><br>3 Aorist;ἔπαυσα
+παύω<br><br>4 Perfect;πέπαυκα
+παύω<br><br>5 Perfect Passive;πέπαυμαι
+παύω<br><br>6 Aorist Passive;ἐπαύθην
+ἐφύλαξα<br><br>1 Present;φυλάττω
+φυλάττω<br><br>2 Future;φυλάξω
+φυλάττω<br><br>3 Aorist;ἐφύλαξα
+φυλάττω<br><br>4 Perfect;πεφύλαχα
+φυλάττω<br><br>5 Perfect Passive;πεφύλαγμαι
+φυλάττω<br><br>6 Aorist Passive;ἐφυλάχθην
+ἐδίδαξα<br><br>1 Present;διδάσκω
+διδάσκω<br><br>2 Future;διδάξω
+διδάσκω<br><br>3 Aorist;ἐδίδαξα
+διδάσκω<br><br>4 Perfect;δεδίδαχα
+διδάσκω<br><br>5 Perfect Passive;δεδίδαγμαι
+διδάσκω<br><br>6 Aorist Passive;ἐδιδάχθην
+ἠθέλησα<br><br>1 Present;ἐθέλω
+ἐθέλω<br><br>2 Future;ἐθελήσω
+ἐθέλω<br><br>3 Aorist;ἠθέλησα
+ἐθέλω<br><br>4 Perfect;ἠθέληκα
+ἔθαψα<br><br>1 Present;θάπτω
+θάπτω<br><br>2 Future;θάψω
+θάπτω<br><br>3 Aorist;ἔθαψα
+θάπτω<br><br>5 Perfect Passive;τέθαμμαι
+θάπτω<br><br>6 Aorist Passive;ἐτάφην
+ἔταξα<br><br>1 Present;τάττω
+τάττω<br><br>2 Future;τάξω
+τάττω<br><br>3 Aorist;ἔταξα
+τάττω<br><br>4 Perfect;τέταχα
+τάττω<br><br>5 Perfect Passive;τέταγμαι
+τάττω<br><br>6 Aorist Passive;ἐτάχθην
+ἦρξα<br><br>1 Present;ἄρχω
+ἄρχω<br><br>2 Future;ἄρξω
+ἄρχω<br><br>3 Aorist;ἦρξα
+ἄρχω<br><br>4 Perfect;ἦρχα
+ἄρχω<br><br>5 Perfect Passive;ἦργμαι
+ἄρχω<br><br>6 Aorist Passive;ἦρχθην
+ἔβλαψα<br><br>1 Present;βλάπτω
+βλάπτω<br><br>2 Future;βλάψω
+βλάπτω<br><br>3 Aorist;ἔβλαψα
+βλάπτω<br><br>4 Perfect;βέβλαφα
+βλάπτω<br><br>5 Perfect Passive;βέβλαμμαι
+βλάπτω<br><br>6 Aorist Passive;ἐβλάβην / ἐβλάφθην
+ἔπεισα<br><br>1 Present;πείθω
+πείθω<br><br>2 Future;πείσω
+πείθω<br><br>3 Aorist;ἔπεισα
+πείθω<br><br>4 Perfect;πέπεικα
+πείθω<br><br>5 Perfect Passive;πέπεισμαι
+πείθω<br><br>6 Aorist Passive;ἐπείστην
+ἔπραξα<br><br>1 Present;πρά̄ττω
+πράττω<br><br>2 Future;πρά̄ξω
+πράττω<br><br>3 Aorist;ἔπρᾱξα
+πράττω<br><br>4 Perfect;πέπρᾱχα / πέπρᾱγα
+πράττω<br><br>5 Perfect Passive;πέπρᾱγμαι
+πράττω<br><br>6 Aorist Passive;ἐπρά̄χθην
+ἐδούλευσα<br><br>1 Present;δουλεύω
+δουλεύω<br><br>2 Future;δουλεύσω
+δουλεύω<br><br>3 Aorist;ἐδούλευσα
+δουλεύω<br><br>4 Perfect;δεδούλευκα
+ἐκώλυσα<br><br>1 Present;κωλύ̄ω
+κωλύω<br><br>2 Future;κωλύ̄σω
+κωλύω<br><br>3 Aorist;ἐκώλῡσα
+κωλύω<br><br>4 Perfect;κεκώλῡκα
+κωλύω<br><br>5 Perfect Passive;κεκώλῡμαι
+κωλύω<br><br>6 Aorist Passive;ἐκωλύ̄θην
+ἐπολίτευσα<br><br>1 Present;πολῑτεύω
+πολιτεύω<br><br>2 Future;πολῑτεύσω
+πολιτεύω<br><br>3 Aorist;ἐπολί̄τευσα
+πολιτεύω<br><br>4 Perfect;πεπολί̄τευκα
+πολιτεύω<br><br>5 Perfect Passive;πεπολί̄τευμαι
+πολιτεύω<br><br>6 Aorist Passive;ἐπολῑλεύθην
+ἐχόρευσα<br><br>1 Present;χορεύω
+χορεύω<br><br>2 Future;χορεύσω
+χορεύω<br><br>3 Aorist;ἐχόρευσα
+χορεύω<br><br>4 Perfect;κεχόρευκα
+χορεύω<br><br>5 Perfect Passive;κεχόρευμαι
+χορεύω<br><br>6 Aorist Passive;ἐχορεύθην
+ἔκλεψα<br><br>1 Present;κλέπτω
+κλέπτω<br><br>2 Future;κλέψω
+κλέπτω<br><br>3 Aorist;ἔκλεψα
+κλέπτω<br><br>4 Perfect;κέκλοφα
+κλέπτω<br><br>5 Perfect Passive;κέκλεμμαι
+κλέπτω<br><br>6 Aorist Passive;ἐκλάπην
+ἔλιπον<br><br>1 Present;λείπω
+λείπω<br><br>2 Future;λείψω
+λείπω<br><br>3 Aorist;ἔλιπον
+λείπω<br><br>4 Perfect;λέλοιπα
+λείπω<br><br>5 Perfect Passive;λέλειμμαι
+λείπω<br><br>6 Aorist Passive;ἐλείφθην
+ἔσωσα<br><br>1 Present;σῴζω
+σῴζω<br><br>2 Future;σώσω
+σῴζω<br><br>3 Aorist;ἔσωσα
+σῴζω<br><br>4 Perfect;σέσωκα
+σῴζω<br><br>5 Perfect Passive;σέσωσμαι / σέσομαι
+σῴζω<br><br>6 Aorist Passive;ἐσώθην
+ἤγαγον<br><br>1 Present;ἄγω
+ἄγω<br><br>2 Future;ἄξω
+ἄγω<br><br>3 Aorist;ἤγαγον
+ἄγω<br><br>4 Perfect;ἦχα
+ἄγω<br><br>5 Perfect Passive;ἦγμαι
+ἄγω<br><br>6 Aorist Passive;ἤχθην
+ἥξω<br><br>1 Present;ἥκω
+ἥκω<br><br>2 Future;ἥξω
+ἠδίκησα<br><br>1 Present;ἀδικέω
+ἀδικῶ<br><br>2 Future;ἀδικήσω
+ἀδικῶ<br><br>3 Aorist;ἠδίκησα
+ἀδικῶ<br><br>4 Perfect;ἠδίκηκα
+ἀδικῶ<br><br>5 Perfect Passive;ἠδίκημαι
+ἀδικῶ<br><br>6 Aorist Passive;ἠδικήθην
+ἐνίκησα<br><br>1 Present;νῑκάω
+νικῶ<br><br>2 Future;νῑκήσω
+νικῶ<br><br>3 Aorist;ἐνί̄κησα
+νικῶ<br><br>4 Perfect;νενί̄κηκα
+νικῶ<br><br>5 Perfect Passive;νενί̄κημαι
+νικῶ<br><br>6 Aorist Passive;ἐνί̄χήθην
+ἐποίησα<br><br>1 Present;ποιέω
+ποιῶ<br><br>3 Aorist;ἐποίησα
+ποιῶ<br><br>4 Perfect;πεποίηκα
+ποιῶ<br><br>5 Perfect Passive;πεποίημαι
+ποιῶ<br><br>6 Aorist Passive;ἐποιήθην
+ἐτίμησα<br><br>1 Present;τῑμάω
+τιμῶ<br><br>2 Future;τῑμήσω
+τιμῶ<br><br>3 Aorist;ἐτί̄μησα
+τιμῶ<br><br>4 Perfect;τετί̄μηκα
+τιμῶ<br><br>5 Perfect Passive;τετί̄μημαι
+τιμῶ<br><br>6 Aorist Passive;ἐτῑμήθην
+ἤγγειλα<br><br>1 Present;ἀγγέλλω
+ἀγγέλλω<br><br>2 Future;ἀγγελῶ
+ἀγγέλλω<br><br>3 Aorist;ἤγγειλα
+ἀγγέλλω<br><br>4 Perfect;ἤγγελκα
+ἀγγέλλω<br><br>5 Perfect Passive;ἤγγελμαι
+ἀγγέλλω<br><br>6 Aorist Passive;ἠγγέλθην
+ἠξίωσα<br><br>1 Present;ἀξιόω
+ἀξιῶ<br><br>2 Future;ἀξιώσω
+ἀξιῶ<br><br>3 Aorist;ἠξίωσα
+ἀξιῶ<br><br>4 Perfect;ἠξίωκα
+ἀξιῶ<br><br>5 Perfect Passive;ἠξίωμαι
+ἀξιῶ<br><br>6 Aorist Passive;ἠξιώθην
+ἐδήλωσα<br><br>1 Present;δηλόω
+δηλῶ<br><br>2 Future;δηλώσω
+δηλῶ<br><br>3 Aorist;ἐδήλωσα
+δηλῶ<br><br>4 Perfect;δεδήλωκα
+δηλῶ<br><br>5 Perfect Passive;δεδήλωμαι
+δηλῶ<br><br>6 Aorist Passive;ἐδηλώθην
+ἐκάλεσα<br><br>1 Present;καλέω
+καλῶ<br><br>2 Future;καλῶ
+καλῶ<br><br>3 Aorist;ἐκάλεσα
+καλῶ<br><br>4 Perfect;κέκληκα
+καλῶ<br><br>5 Perfect Passive;κέκλημαι
+καλῶ<br><br>6 Aorist Passive;ἐκλήθην
+ἔμεινα<br><br>1 Present;μένω
+μένω<br><br>2 Future;μενῶ
+μένω<br><br>3 Aorist;ἔμεινα
+μένω<br><br>4 Perfect;μεμένηκα
+ἐτελεύτησα<br><br>1 Present;τελευτάω
+τελευτῶ<br><br>2 Future;τελευτήσω
+τελευτῶ<br><br>3 Aorist;ἐτελεύτησα
+τελευτῶ<br><br>4 Perfect;τετελεύτηκα
+τελευτῶ<br><br>5 Perfect Passive;τετελέυτημαι
+τελευτῶ<br><br>6 Aorist Passive;ἐτελευτήθην
+ἤκουσα<br><br>1 Present;ἀκούω
+ἀκούω<br><br>2 Future;ἀκούσομαι
+ἀκούω<br><br>3 Aorist;ἤκουσα
+ἀκούω<br><br>4 Perfect;ἀκήκοα
+ἀκούω<br><br>6 Aorist Passive;ἠκούσθην
+ἔβαλον<br><br>1 Present;βάλλω
+βάλλω<br><br>2 Future;βαλῶ
+βάλλω<br><br>3 Aorist;ἔβαλον
+βάλλω<br><br>4 Perfect;βέβληκα
+βάλλω<br><br>5 Perfect Passive;βέβλημαι
+βάλλω<br><br>6 Aorist Passive;ἐβλήθην
+βεβούλημαι<br><br>1 Present;βούλομαι
+βούλομαι<br><br>2 Future;βουλήσομαι
+βούλομαι<br><br>5 Perfect Passive;βεβούλημαι
+βούλομαι<br><br>6 Aorist Passive;ἐβουλήθην
+ἐδεξάμην<br><br>1 Present;δέχομαι
+δέχομαι<br><br>2 Future;δέξομαι
+δέχομαι<br><br>3 Aorist;ἐδεξάμην
+δέχομαι<br><br>5 Perfect Passive;δέδεγμαι
+ἀπεδεξάμην<br><br>1 Present;ἀποδέχομαι
+ἀποδέχομαι<br><br>2 Future;ἀποδέξομαι
+ἀποδέχομαι<br><br>3 Aorist;ἀπεδεξάμην
+ἀποδέχομαι<br><br>5 Perfect Passive;ἀποδέδεγμαι
+ἔλαβον<br><br>1 Present;λαμβάνω
+λαμβάνω<br><br>2 Future;λήψομαι
+λαμβάνω<br><br>3 Aorist;ἔλαβον
+λαμβάνω<br><br>4 Perfect;εἴληφα
+λαμβάνω<br><br>5 Perfect Passive;εἴλημμαι
+λαμβάνω<br><br>6 Aorist Passive;ἐλήφθην
+ἔπαθον<br><br>1 Present;πάσχω
+πάσχω<br><br>2 Future;πείσομαι
+πάσχω<br><br>3 Aorist;ἔπαθον
+πάσχω<br><br>4 Perfect;πέπονθα
+ἔδωκα<br><br>1 Present;δίδωμι
+δίδωμι<br><br>2 Future;δώσω
+δίδωμι<br><br>3 Aorist;ἔδωκα
+δίδωμι<br><br>4 Perfect;δέδωκα
+δίδωμι<br><br>5 Perfect Passive;δέδομαι
+δίδωμι<br><br>6 Aorist Passive;ἐδόθην
+ἔστησα<br><br>1 Present;ἵστημι
+ἵστημι<br><br>2 Future;στήσω
+ἵστημι<br><br>3 Aorist;ἔστησα
+ἵστημι<br><br>5 Perfect Passive;ἕσταμαι
+ἵστημι<br><br>6 Aorist Passive;ἐστάθην
+ἔστην<br><br>1 Present;ἵσταμαι
+ἵσταμαι<br><br>2 Future;στήσομαι
+ἵσταμαι<br><br>3 Aorist;ἔστην
+ἵσταμαι<br><br>4 Perfect;ἕστηκα
+ἀπέστησα / ἀπέστην<br><br>1 Present;ἀφίστημι
+ἀφίστημι<br><br>2 Future;ἀποστήσω
+ἀφίστημι<br><br>3 Aorist;ἀπέστησα / ἀπέστην
+ἀφίστημι<br><br>4 Perfect;ἀφέστηκα
+ἀφίστημι<br><br>5 Perfect Passive;ἀφέσταμαι
+ἀφίστημι<br><br>6 Aorist Passive;ἀπεστάθην
+ἀπέδωκα<br><br>1 Present;ἀποδίδωμι
+ἀποδίδωμι<br><br>2 Future;ἀποδώσω
+ἀποδίδωμι<br><br>3 Aorist;ἀπέδωκα
+ἀποδίδωμι<br><br>4 Perfect;ἀποδέδωκα
+ἀποδίδωμι<br><br>5 Perfect Passive;ἀποδέδομαι
+ἀποδίδωμι<br><br>6 Aorist Passive;ἀπεδόθην
+κατέστησα<br><br>1 Present;καθίστημι
+καθίστημι<br><br>2 Future;καταστήσω
+καθίστημι<br><br>3 Aorist;κατέστησα
+καθίστημι<br><br>5 Perfect Passive;καθέσταμαι
+καθίστημι<br><br>6 Aorist Passive;κατεστάθην
+κατέστην<br><br>1 Present;καθίσταμαι
+καθίσταμαι<br><br>2 Future;καταστήσομαι
+καθίσταμαι<br><br>3 Aorist;κατέστην
+καθίσταμαι<br><br>4 Perfect;καθέστηκα
+κατέλυσα<br><br>1 Present;καταλύ̄ω
+καταλύω<br><br>2 Future;καταλύ̄σω
+καταλύω<br><br>3 Aorist;κατέλῡσα
+καταλύω<br><br>4 Perfect;καταλέλυκα
+καταλύω<br><br>5 Perfect Passive;καταλέλυμαι
+καταλύω<br><br>6 Aorist Passive;κατελύθην
+ἔθηκα<br><br>1 Present;τίθημι
+τίθημι<br><br>2 Future;θήσω
+τίθημι<br><br>3 Aorist;ἔθηκα
+τίθημι<br><br>4 Perfect;τέθηκα
+τίθημι<br><br>5 Perfect Passive;τέθειμαι
+τίθημι<br><br>6 Aorist Passive;ἐτέτην
+ἀνέθηκα<br><br>1 Present;ἀνατίθημι
+ἀνατίθημι<br><br>2 Future;ἀναθήσω
+ἀνατίθημι<br><br>3 Aorist;ἀνέθηκα
+ἀνατίθημι<br><br>4 Perfect;ἀνατέθηκα
+ἀνατίθημι<br><br>5 Perfect Passive;ἀνατέθειμαι
+ἀνατίθημι<br><br>6 Aorist Passive;ἀνετέτην
+ἐφίλησα<br><br>1 Present;φιλέω
+φιλῶ<br><br>2 Future;φιλήσω
+φιλῶ<br><br>3 Aorist;ἐφίλησα
+φιλῶ<br><br>4 Perfect;πεφίληκα
+φιλῶ<br><br>5 Perfect Passive;πεπίλημαι
+φιλῶ<br><br>6 Aorist Passive;ἐφιλήθην
+πεφόβημαι<br><br>1 Present;φοβέομαι
+φοβοῦμαι<br><br>2 Future;φοβήσομαι
+φοβοῦμαι<br><br>5 Perfect Passive;πεφόβημαι
+φοβοῦμαι<br><br>6 Aorist Passive;ἐφοβήθην
+ἐγενόμην<br><br>1 Present;γίγνομαι
+γίγνομαι<br><br>2 Future;γενήσομαι
+γίγνομαι<br><br>3 Aorist;ἐγενόμην
+γίγνομαι<br><br>4 Perfect;γέγονα
+γίγνομαι<br><br>5 Perfect Passive;γεγένημαι
+ἦλθον<br><br>1 Present;ἔρχομαι
+ἔρχομαι<br><br>2 Future;ἐλεύσομαι
+ἔρχομαι<br><br>3 Aorist;ἦλθον
+ἔρχομαι<br><br>4 Perfect;ἐλήλυθα
+ἔμαθον<br><br>1 Present;μανθάνω
+μανθάνω<br><br>2 Future;μαθήσομαι
+μανθάνω<br><br>3 Aorist;ἔμαθον
+μανθάνω<br><br>4 Perfect;μεμάθηκα
+ἐμαχησάμην<br><br>1 Present;μάχομαι
+μάχομαι<br><br>2 Future;μαχοῦμαι
+μάχομαι<br><br>3 Aorist;ἐμαχησάμην
+μάχομαι<br><br>5 Perfect Passive;μεμάχημαι
+μετέδωκα<br><br>1 Present;μεταδίδωμι
+μεταδίδωμι<br><br>2 Future;μεταδώσω
+μεταδίδωμι<br><br>3 Aorist;μετέδωκα
+μεταδίδωμι<br><br>4 Perfect;μεταδέδωκα
+μεταδίδωμι<br><br>5 Perfect Passive;μεταδέδομαι
+μεταδίδωμι<br><br>6 Aorist Passive;μετεδόθην
+μετανέστην<br><br>1 Present;μετανίσταμαι
+μετανίσταμαι<br><br>2 Future;μεταναστήσομαι
+μετανίσταμαι<br><br>3 Aorist;μετανέστην
+μετανίσταμαι<br><br>4 Perfect;μετανέστηκα
+ἐμηχανηάμην<br><br>1 Present;μηχανάομαι
+μηχανῶμαι<br><br>2 Future;μηχανήσομαι
+μηχανῶμαι<br><br>3 Aorist;ἐμηχανηάμην
+μηχανῶμαι<br><br>5 Perfect Passive;μεμηχάνημαι
+ἔφυγον<br><br>1 Present;φεύγω
+φεύγω<br><br>2 Future;φεύξομαι
+φεύγω<br><br>3 Aorist;ἔφυγον
+φεύγω<br><br>4 Perfect;πέφευγα
+ἔδειξα<br><br>1 Present;δείκνῡμι
+δείκνυμι<br><br>2 Future;δείξω
+δείκνυμι<br><br>3 Aorist;ἔδειξα
+δείκνυμι<br><br>4 Perfect;δέδεικα
+δείκνυμι<br><br>5 Perfect Passive;δέδειγμαι
+δείκνυμι<br><br>6 Aorist Passive;ἐδείχθην
+ἐπανέστην<br><br>1 Present;ἐπανίσταμαι
+ἐπανίσταμαι<br><br>2 Future;ἐπαναστήσομαι
+ἐπανίσταμαι<br><br>3 Aorist;ἐπανέστην
+ἐπανίσταμαι<br><br>4 Perfect;ἐπανέστηκα
+ἠρωτησα<br><br>1 Present;ἐρωτάω
+ἐρωτῶ<br><br>2 Future;ἐρωτήσω
+ἐρωτῶ<br><br>3 Aorist;ἠρωτησα
+ἐρωτῶ<br><br>4 Perfect;ἠρωτηκα
+ἐρωτῶ<br><br>5 Perfect Passive;ἠρώτημαι
+ἐρωτῶ<br><br>6 Aorist Passive;ἠρωτήθην
+ἔλαθον<br><br>1 Present;λανθάνω
+λανθάνω<br><br>2 Future;λήσω
+λανθάνω<br><br>3 Aorist;ἔλαθον
+λανθάνω<br><br>4 Perfect;λέληθα
+ἔτυχον<br><br>1 Present;τυνχάνω
+τυνχάνω<br><br>2 Future;τεύξομαι
+τυνχάνω<br><br>3 Aorist;ἔτυχον
+τυνχάνω<br><br>4 Perfect;τετύχηκα
+ὑπήκουσα<br><br>1 Present;ὑπακούω
+ὑπακούω<br><br>2 Future;ὑπακούσομαι
+ὑπακούω<br><br>3 Aorist;ὑπήκουσα
+ὑπακούω<br><br>4 Perfect;ὑπακήκοα
+ὑπακούω<br><br>6 Aorist Passive;ὑπηκούσθην
+ὑπέμεινα<br><br>1 Present;ὑπομένω
+ὑπομένω<br><br>2 Future;ὑπομενῶ
+ὑπομένω<br><br>3 Aorist;ὑπέμεινα
+ὑπομένω<br><br>4 Perfect;ὑπομεμένηκα
+ἔφθασα / ἔφθην<br><br>1 Present;φθάνω
+φθάνω<br><br>2 Future;φθήσομαι
+φθάνω<br><br>3 Aorist;ἔφθασα / ἔφθην
+χαιρήσω<br><br>1 Present;χαίρω
+χαίρω<br><br>2 Future;χαιρήσω
+χαίρω<br><br>4 Perfect;κεχάρηκα
+χαίρω<br><br>6 Aorist Passive;ἐχάρην
+ἔσομαι<br><br>1 Present;ἐιμί
+ἐιμί<br><br>2 Future;ἔσομαι
