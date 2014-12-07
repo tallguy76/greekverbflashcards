@@ -320,9 +320,9 @@
 μεταναστήσομαι	μεταναστήσομαι: 2 Future<br><br>μετανίσταμαι (1)<br><br>migrate
 μετανέστην	μετανέστην: 3 Aorist<br><br>μετανίσταμαι (1)<br><br>migrate
 μετανέστηκα	μετανέστηκα: 4 Perfect<br><br>μετανίσταμαι (1)<br><br>migrate
-μηχανῶμαι	μηχανάομαι: 1 Present<br><br>ἐμηχανηάμην (3)<br><br>contrive, devise
+μηχανῶμαι	μηχανάομαι: 1 Present<br><br>ἐμηχανησάμην (3)<br><br>contrive, devise
 μηχανήσομαι	μηχανήσομαι: 2 Future<br><br>μηχανάομαι (1)<br><br>contrive, devise
-ἐμηχανηάμην	ἐμηχανηάμην: 3 Aorist<br><br>μηχανάομαι (1)<br><br>contrive, devise
+ἐμηχανησάμην	ἐμηχανησάμην: 3 Aorist<br><br>μηχανάομαι (1)<br><br>contrive, devise
 μεμηχάνημαι	μεμηχάνημαι: 5 Perfect Passive<br><br>μηχανάομαι (1)<br><br>contrive, devise
 φεύγω	φεύγω: 1 Present<br><br>ἔφυγον (3)<br><br>flee; be in exile; be a defendant
 φεύξομαι	φεύξομαι: 2 Future<br><br>φεύγω (1)<br><br>flee; be in exile; be a defendant
