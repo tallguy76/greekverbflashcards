@@ -287,7 +287,7 @@
 φιλήσω	φιλήσω: 2 Future<br><br>φιλέω (1)<br><br>love
 ἐφίλησα	ἐφίλησα: 3 Aorist<br><br>φιλέω (1)<br><br>love
 πεφίληκα	πεφίληκα: 4 Perfect<br><br>φιλέω (1)<br><br>love
-πεπίλημαι	πεπίλημαι: 5 Perfect Passive<br><br>φιλέω (1)<br><br>love
+πεφίλημαι	πεφίλημαι: 5 Perfect Passive<br><br>φιλέω (1)<br><br>love
 ἐφιλήθην	ἐφιλήθην: 6 Aorist Passive<br><br>φιλέω (1)<br><br>love
 φοβοῦμαι	φοβέομαι: 1 Present<br><br>πεφόβημαι (5)<br><br>fear, be afraid
 φοβήσομαι	φοβήσομαι: 2 Future<br><br>φοβέομαι (1)<br><br>fear, be afraid

@@ -287,7 +287,7 @@
 φιλῶ<br><br>2 Future;φιλήσω
 φιλῶ<br><br>3 Aorist;ἐφίλησα
 φιλῶ<br><br>4 Perfect;πεφίληκα
-φιλῶ<br><br>5 Perfect Passive;πεπίλημαι
+φιλῶ<br><br>5 Perfect Passive;πεφίλημαι
 φιλῶ<br><br>6 Aorist Passive;ἐφιλήθην
 πεφόβημαι<br><br>1 Present;φοβέομαι
 φοβοῦμαι<br><br>2 Future;φοβήσομαι
