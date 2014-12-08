@@ -78,7 +78,8 @@
 ἔβλαψα	ἔβλαψα: 3 Aorist<br><br>βλάπτω (1)<br><br>hurt, harm
 βέβλαφα	βέβλαφα: 4 Perfect<br><br>βλάπτω (1)<br><br>hurt, harm
 βέβλαμμαι	βέβλαμμαι: 5 Perfect Passive<br><br>βλάπτω (1)<br><br>hurt, harm
-ἐβλάβην / ἐβλάφθην	ἐβλάβην / ἐβλάφθην: 6 Aorist Passive<br><br>βλάπτω (1)<br><br>hurt, harm
+ἐβλάβην	ἐβλάβην / ἐβλάφθην: 6 Aorist Passive<br><br>βλάπτω (1)<br><br>hurt, harm
+ἐβλάφθην	ἐβλάβην / ἐβλάφθην: 6 Aorist Passive<br><br>βλάπτω (1)<br><br>hurt, harm
 πείθω	πείθω: 1 Present<br><br>ἔπεισα (3)<br><br>persuade
 πείσω	πείσω: 2 Future<br><br>πείθω (1)<br><br>persuade
 ἔπεισα	ἔπεισα: 3 Aorist<br><br>πείθω (1)<br><br>persuade
@@ -88,7 +89,8 @@
 πράττω	πρά̄ττω: 1 Present<br><br>ἔπρᾱξα (3)<br><br>do; fare
 πράξω	πρά̄ξω: 2 Future<br><br>πρά̄ττω (1)<br><br>do; fare
 ἔπραξα	ἔπρᾱξα: 3 Aorist<br><br>πρά̄ττω (1)<br><br>do; fare
-πέπραχα / πέπραγα	πέπρᾱχα / πέπρᾱγα: 4 Perfect<br><br>πρά̄ττω (1)<br><br>do; fare
+πέπραχα	πέπρᾱχα / πέπρᾱγα: 4 Perfect<br><br>πρά̄ττω (1)<br><br>do; fare
+πέπραγα	πέπρᾱχα / πέπρᾱγα: 4 Perfect<br><br>πρά̄ττω (1)<br><br>do; fare
 πέπραγμαι	πέπρᾱγμαι: 5 Perfect Passive<br><br>πρά̄ττω (1)<br><br>do; fare
 ἐπράχθην	ἐπρά̄χθην: 6 Aorist Passive<br><br>πρά̄ττω (1)<br><br>do; fare
 δουλεύω	δουλεύω: 1 Present<br><br>ἐδούλευσα (3)<br><br>be a slave (+D)
@@ -129,7 +131,8 @@
 σώσω	σώσω: 2 Future<br><br>σῴζω (1)<br><br>save
 ἔσωσα	ἔσωσα: 3 Aorist<br><br>σῴζω (1)<br><br>save
 σέσωκα	σέσωκα: 4 Perfect<br><br>σῴζω (1)<br><br>save
-σέσωσμαι / σέσομαι	σέσωσμαι / σέσομαι: 5 Perfect Passive<br><br>σῴζω (1)<br><br>save
+σέσωσμαι	σέσωσμαι / σέσομαι: 5 Perfect Passive<br><br>σῴζω (1)<br><br>save
+σέσομαι	σέσωσμαι / σέσομαι: 5 Perfect Passive<br><br>σῴζω (1)<br><br>save
 ἐσώθην	ἐσώθην: 6 Aorist Passive<br><br>σῴζω (1)<br><br>save
 ἄγω	ἄγω: 1 Present<br><br>ἤγαγον (3)<br><br>lead
 ἄξω	ἄξω: 2 Future<br><br>ἄγω (1)<br><br>lead
@@ -246,7 +249,8 @@
 ἕστηκα	ἕστηκα: 4 Perfect<br><br>ἵσταμαι (1)<br><br>stand
 ἀφίστημι	ἀφίστημι: 1 Present<br><br>ἀπέστησα / ἀπέστην (3)<br><br>cause to revolt
 ἀποστήσω	ἀποστήσω: 2 Future<br><br>ἀφίστημι (1)<br><br>cause to revolt
-ἀπέστησα / ἀπέστην	ἀπέστησα / ἀπέστην: 3 Aorist<br><br>ἀφίστημι (1)<br><br>cause to revolt
+ἀπέστησα	ἀπέστησα / ἀπέστην: 3 Aorist<br><br>ἀφίστημι (1)<br><br>cause to revolt
+ἀπέστην	ἀπέστησα / ἀπέστην: 3 Aorist<br><br>ἀφίστημι (1)<br><br>cause to revolt
 ἀφέστηκα	ἀφέστηκα: 4 Perfect<br><br>ἀφίστημι (1)<br><br>cause to revolt
 ἀφέσταμαι	ἀφέσταμαι: 5 Perfect Passive<br><br>ἀφίστημι (1)<br><br>cause to revolt
 ἀπεστάθην	ἀπεστάθην: 6 Aorist Passive<br><br>ἀφίστημι (1)<br><br>cause to revolt
@@ -363,7 +367,8 @@
 ὑπομεμένηκα	ὑπομεμένηκα: 4 Perfect<br><br>ὑπομένω (1)<br><br>await; stand firm; endure
 φθάνω	φθάνω: 1 Present<br><br>ἔφθασα / ἔφθην (3)<br><br>act first; be first (in doing something); anticipate (someone)
 φθήσομαι	φθήσομαι: 2 Future<br><br>φθάνω (1)<br><br>act first; be first (in doing something); anticipate (someone)
-ἔφθασα / ἔφθην	ἔφθασα / ἔφθην: 3 Aorist<br><br>φθάνω (1)<br><br>act first; be first (in doing something); anticipate (someone)
+ἔφθασα	ἔφθασα / ἔφθην: 3 Aorist<br><br>φθάνω (1)<br><br>act first; be first (in doing something); anticipate (someone)
+ἔφθην	ἔφθασα / ἔφθην: 3 Aorist<br><br>φθάνω (1)<br><br>act first; be first (in doing something); anticipate (someone)
 χαίρω	χαίρω: 1 Present<br><br>χαιρήσω (2)<br><br>rejoice in, take pleasure in, enjoy (+D)
 χαιρήσω	χαιρήσω: 2 Future<br><br>χαίρω (1)<br><br>rejoice in, take pleasure in, enjoy (+D)
 κεχάρηκα	κεχάρηκα: 4 Perfect<br><br>χαίρω (1)<br><br>rejoice in, take pleasure in, enjoy (+D)
@@ -384,12 +389,15 @@
 ὁρῶ	ὁράω: 1 Present<br><br>εἶδον (3)<br><br>see
 ὄψομαι	ὄψομαι: 2 Future<br><br>ὁράω (1)<br><br>see
 εἶδον	εἶδον: 3 Aorist<br><br>ὁράω (1)<br><br>see
-ἑόρακα / ἑώρακα	ἑόρᾱκα / ἑώρᾱκα: 4 Perfect<br><br>ὁράω (1)<br><br>see
-ἑώραμαι / ὦμμαι	ἑώρᾱμαι / ὦμμαι: 5 Perfect Passive<br><br>ὁράω (1)<br><br>see
+ἑόρακα	ἑόρᾱκα / ἑώρᾱκα: 4 Perfect<br><br>ὁράω (1)<br><br>see
+ἑώρακα	ἑόρᾱκα / ἑώρᾱκα: 4 Perfect<br><br>ὁράω (1)<br><br>see
+ἑώραμαι	ἑώρᾱμαι / ὦμμαι: 5 Perfect Passive<br><br>ὁράω (1)<br><br>see
+ὦμμαι	ἑώρᾱμαι / ὦμμαι: 5 Perfect Passive<br><br>ὁράω (1)<br><br>see
 ὤφθην	ὤφθην: 6 Aorist Passive<br><br>ὁράω (1)<br><br>see
 φέρω	φέρω: 1 Present<br><br>ἤνενγκα / ἤνεγκον (3)<br><br>bring, bear, carry; (mid.) win
 οἴσω	οἴσω: 2 Future<br><br>φέρω (1)<br><br>bring, bear, carry; (mid.) win
-ἤνενγκα / ἤνεγκον	ἤνενγκα / ἤνεγκον: 3 Aorist<br><br>φέρω (1)<br><br>bring, bear, carry; (mid.) win
+ἤνενγκα	ἤνενγκα / ἤνεγκον: 3 Aorist<br><br>φέρω (1)<br><br>bring, bear, carry; (mid.) win
+ἤνεγκον	ἤνενγκα / ἤνεγκον: 3 Aorist<br><br>φέρω (1)<br><br>bring, bear, carry; (mid.) win
 ἐνήνοχα	ἐνήνοχα: 4 Perfect<br><br>φέρω (1)<br><br>bring, bear, carry; (mid.) win
 ἐνήνεγμαι	ἐνήνεγμαι: 5 Perfect Passive<br><br>φέρω (1)<br><br>bring, bear, carry; (mid.) win
 ἠνέχθην	ἠνέχθην: 6 Aorist Passive<br><br>φέρω (1)<br><br>bring, bear, carry; (mid.) win

@@ -15,8 +15,8 @@ entries = CSV.open(verb_list, :headers => true)
 entries.each do |e|
   pp = [e['e'],e['1'], e['2'],e['3'],e['4'],e['5'],e['6']]
   (1..6).each do |i|
-    entry = pp[i]
-    next unless entry && entry.match(/[α-ωΑ-Ω]/ )
+    listing = pp[i]
+    next unless listing && listing.match(/[α-ωΑ-Ω]/ )
     alt_index =
     if i != 1
       1
@@ -29,13 +29,16 @@ entries.each do |e|
     else
       0
     end
-    prompt_form = strip_macrons(entry)
-    prompt_form = contract(prompt_form) if i == 1
-    forward = "%s\t%s: %s<br><br>%s (%d)<br><br>%s" % [prompt_form, entry, names[i], pp[alt_index], alt_index, pp[0]]
-    cards.puts(forward)
+    listings = listing.split(" / ")
+    listings.each do |entry|
+      prompt_form = strip_macrons(entry)
+      prompt_form = contract(prompt_form) if i == 1
+      forward = "%s\t%s: %s<br><br>%s (%d)<br><br>%s" % [prompt_form, listing, names[i], pp[alt_index], alt_index, pp[0]]
+      cards.puts(forward)
+    end
     prompt_form = strip_macrons(pp[alt_index])
     prompt_form = contract(prompt_form) if alt_index == 1
-    reverse = "%s<br><br>%s;%s" % [prompt_form, names[i], entry]
+    reverse = "%s<br><br>%s;%s" % [prompt_form, names[i], listing]
     cards_reverse.puts(reverse)
   end
 end
