@@ -338,10 +338,10 @@
 ἐπαναστήσομαι	ἐπαναστήσομαι: 2 Future<br><br>ἐπανίσταμαι (1)<br><br>rise in insurrection against (+D)
 ἐπανέστην	ἐπανέστην: 3 Aorist<br><br>ἐπανίσταμαι (1)<br><br>rise in insurrection against (+D)
 ἐπανέστηκα	ἐπανέστηκα: 4 Perfect<br><br>ἐπανίσταμαι (1)<br><br>rise in insurrection against (+D)
-ἐρωτῶ	ἐρωτάω: 1 Present<br><br>ἠρωτησα (3)<br><br>ask, question
+ἐρωτῶ	ἐρωτάω: 1 Present<br><br>ἠρώτησα (3)<br><br>ask, question
 ἐρωτήσω	ἐρωτήσω: 2 Future<br><br>ἐρωτάω (1)<br><br>ask, question
-ἠρωτησα	ἠρωτησα: 3 Aorist<br><br>ἐρωτάω (1)<br><br>ask, question
-ἠρωτηκα	ἠρωτηκα: 4 Perfect<br><br>ἐρωτάω (1)<br><br>ask, question
+ἠρώτησα	ἠρώτησα: 3 Aorist<br><br>ἐρωτάω (1)<br><br>ask, question
+ἠρώτηκα	ἠρώτηκα: 4 Perfect<br><br>ἐρωτάω (1)<br><br>ask, question
 ἠρώτημαι	ἠρώτημαι: 5 Perfect Passive<br><br>ἐρωτάω (1)<br><br>ask, question
 ἠρωτήθην	ἠρωτήθην: 6 Aorist Passive<br><br>ἐρωτάω (1)<br><br>ask, question
 λανθάνω	λανθάνω: 1 Present<br><br>ἔλαθον (3)<br><br>escape the notice of (+A) (+participle)

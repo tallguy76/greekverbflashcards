@@ -338,10 +338,10 @@
 ἐπανίσταμαι<br><br>2 Future;ἐπαναστήσομαι
 ἐπανίσταμαι<br><br>3 Aorist;ἐπανέστην
 ἐπανίσταμαι<br><br>4 Perfect;ἐπανέστηκα
-ἠρωτησα<br><br>1 Present;ἐρωτάω
+ἠρώτησα<br><br>1 Present;ἐρωτάω
 ἐρωτῶ<br><br>2 Future;ἐρωτήσω
-ἐρωτῶ<br><br>3 Aorist;ἠρωτησα
-ἐρωτῶ<br><br>4 Perfect;ἠρωτηκα
+ἐρωτῶ<br><br>3 Aorist;ἠρώτησα
+ἐρωτῶ<br><br>4 Perfect;ἠρώτηκα
 ἐρωτῶ<br><br>5 Perfect Passive;ἠρώτημαι
 ἐρωτῶ<br><br>6 Aorist Passive;ἠρωτήθην
 ἔλαθον<br><br>1 Present;λανθάνω
