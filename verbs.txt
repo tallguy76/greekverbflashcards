@@ -4,9 +4,9 @@
 κεκέλευκα	κεκέλευκα: 4 Perfect<br><br>κελεύω (1)<br><br>order, command
 κεκέλευσμαι	κεκέλευσμαι: 5 Perfect Passive<br><br>κελεύω (1)<br><br>order, command
 ἐκελεύσθην	ἐκελεύσθην: 6 Aorist Passive<br><br>κελεύω (1)<br><br>order, command
-λύω	λύ̄ω: 1 Present<br><br>ἔλῡσα (3)<br><br>release; dissolve; destroy
+λύω	λύ̄ω: 1 Present<br><br>ἔλῡσα (3)<br><br>release; dissolve; destroy
 λύσω	λύ̄σω: 2 Future<br><br>λύ̄ω (1)<br><br>release; dissolve; destroy
-ἔλυσα	ἔλῡσα: 3 Aorist<br><br>λύ̄ω (1)<br><br>release; dissolve; destroy
+ἔλυσα	ἔλῡσα: 3 Aorist<br><br>λύ̄ω (1)<br><br>release; dissolve; destroy
 λέλυκα	λέλυκα: 4 Perfect<br><br>λύ̄ω (1)<br><br>release; dissolve; destroy
 λέλυμαι	λέλυμαι: 5 Perfect Passive<br><br>λύ̄ω (1)<br><br>release; dissolve; destroy
 ἐλύθην	ἐλύθην: 6 Aorist Passive<br><br>λύ̄ω (1)<br><br>release; dissolve; destroy
@@ -101,12 +101,12 @@
 κεκώλυκα	κεκώλῡκα: 4 Perfect<br><br>κωλύ̄ω (1)<br><br>hinder, prevent
 κεκώλυμαι	κεκώλῡμαι: 5 Perfect Passive<br><br>κωλύ̄ω (1)<br><br>hinder, prevent
 ἐκωλύθην	ἐκωλύ̄θην: 6 Aorist Passive<br><br>κωλύ̄ω (1)<br><br>hinder, prevent
-πολιτεύω	πολῑτεύω: 1 Present<br><br>ἐπολί̄τευσα (3)<br><br>live as a citizen; conduct the government
-πολιτεύσω	πολῑτεύσω: 2 Future<br><br>πολῑτεύω (1)<br><br>live as a citizen; conduct the government
-ἐπολίτευσα	ἐπολί̄τευσα: 3 Aorist<br><br>πολῑτεύω (1)<br><br>live as a citizen; conduct the government
-πεπολίτευκα	πεπολί̄τευκα: 4 Perfect<br><br>πολῑτεύω (1)<br><br>live as a citizen; conduct the government
-πεπολίτευμαι	πεπολί̄τευμαι: 5 Perfect Passive<br><br>πολῑτεύω (1)<br><br>live as a citizen; conduct the government
-ἐπολιλεύθην	ἐπολῑλεύθην: 6 Aorist Passive<br><br>πολῑτεύω (1)<br><br>live as a citizen; conduct the government
+πολιτεύω	πολῑτεύω: 1 Present<br><br>ἐπολί̄τευσα (3)<br><br>live as a citizen; conduct the government
+πολιτεύσω	πολῑτεύσω: 2 Future<br><br>πολῑτεύω (1)<br><br>live as a citizen; conduct the government
+ἐπολίτευσα	ἐπολί̄τευσα: 3 Aorist<br><br>πολῑτεύω (1)<br><br>live as a citizen; conduct the government
+πεπολίτευκα	πεπολί̄τευκα: 4 Perfect<br><br>πολῑτεύω (1)<br><br>live as a citizen; conduct the government
+πεπολίτευμαι	πεπολί̄τευμαι: 5 Perfect Passive<br><br>πολῑτεύω (1)<br><br>live as a citizen; conduct the government
+ἐπολιλεύθην	ἐπολῑλεύθην: 6 Aorist Passive<br><br>πολῑτεύω (1)<br><br>live as a citizen; conduct the government
 χορεύω	χορεύω: 1 Present<br><br>ἐχόρευσα (3)<br><br>dance, perform in a chorus
 χορεύσω	χορεύσω: 2 Future<br><br>χορεύω (1)<br><br>dance, perform in a chorus
 ἐχόρευσα	ἐχόρευσα: 3 Aorist<br><br>χορεύω (1)<br><br>dance, perform in a chorus
@@ -320,9 +320,9 @@
 μεταναστήσομαι	μεταναστήσομαι: 2 Future<br><br>μετανίσταμαι (1)<br><br>migrate
 μετανέστην	μετανέστην: 3 Aorist<br><br>μετανίσταμαι (1)<br><br>migrate
 μετανέστηκα	μετανέστηκα: 4 Perfect<br><br>μετανίσταμαι (1)<br><br>migrate
-μηχανῶμαι	μηχανάομαι: 1 Present<br><br>ἐμηχανησάμην (3)<br><br>contrive, devise
+μηχανῶμαι	μηχανάομαι: 1 Present<br><br>ἐμηχανηάμην (3)<br><br>contrive, devise
 μηχανήσομαι	μηχανήσομαι: 2 Future<br><br>μηχανάομαι (1)<br><br>contrive, devise
-ἐμηχανησάμην	ἐμηχανησάμην: 3 Aorist<br><br>μηχανάομαι (1)<br><br>contrive, devise
+ἐμηχανηάμην	ἐμηχανηάμην: 3 Aorist<br><br>μηχανάομαι (1)<br><br>contrive, devise
 μεμηχάνημαι	μεμηχάνημαι: 5 Perfect Passive<br><br>μηχανάομαι (1)<br><br>contrive, devise
 φεύγω	φεύγω: 1 Present<br><br>ἔφυγον (3)<br><br>flee; be in exile; be a defendant
 φεύξομαι	φεύξομαι: 2 Future<br><br>φεύγω (1)<br><br>flee; be in exile; be a defendant
@@ -368,5 +368,30 @@
 χαιρήσω	χαιρήσω: 2 Future<br><br>χαίρω (1)<br><br>rejoice in, take pleasure in, enjoy (+D)
 κεχάρηκα	κεχάρηκα: 4 Perfect<br><br>χαίρω (1)<br><br>rejoice in, take pleasure in, enjoy (+D)
 ἐχάρην	ἐχάρην: 6 Aorist Passive<br><br>χαίρω (1)<br><br>rejoice in, take pleasure in, enjoy (+D)
+αἱρῶ	αἱρέω: 1 Present<br><br>εἷλον (3)<br><br>take, capture; (mid.) choose
+αἱρήσω	αἱρήσω: 2 Future<br><br>αἱρέω (1)<br><br>take, capture; (mid.) choose
+εἷλον	εἷλον: 3 Aorist<br><br>αἱρέω (1)<br><br>take, capture; (mid.) choose
+ᾕρηκα	ᾕρηκα: 4 Perfect<br><br>αἱρέω (1)<br><br>take, capture; (mid.) choose
+ᾕρημαι	ᾕρημαι: 5 Perfect Passive<br><br>αἱρέω (1)<br><br>take, capture; (mid.) choose
+ᾑρέθην	ᾑρέθην: 6 Aorist Passive<br><br>αἱρέω (1)<br><br>take, capture; (mid.) choose
+αἰσθάνομαι	αἰσθάνομαι: 1 Present<br><br>ᾐσθόμην (3)<br><br>perceive (+G,A)
+αἰσθήσομαι	αἰσθήσομαι: 2 Future<br><br>αἰσθάνομαι (1)<br><br>perceive (+G,A)
+ᾐσθόμην	ᾐσθόμην: 3 Aorist<br><br>αἰσθάνομαι (1)<br><br>perceive (+G,A)
+ᾐσθήμαι	ᾐσθήμαι: 5 Perfect Passive<br><br>αἰσθάνομαι (1)<br><br>perceive (+G,A)
+ἕπομαι	ἕπομαι: 1 Present<br><br>ἑσπόμην (3)<br><br>follow, pursue (+D)
+ἕψομαι	ἕψομαι: 2 Future<br><br>ἕπομαι (1)<br><br>follow, pursue (+D)
+ἑσπόμην	ἑσπόμην: 3 Aorist<br><br>ἕπομαι (1)<br><br>follow, pursue (+D)
+ὁρῶ	ὁράω: 1 Present<br><br>εἶδον (3)<br><br>see
+ὄψομαι	ὄψομαι: 2 Future<br><br>ὁράω (1)<br><br>see
+εἶδον	εἶδον: 3 Aorist<br><br>ὁράω (1)<br><br>see
+ἑόρακα / ἑώρακα	ἑόρᾱκα / ἑώρᾱκα: 4 Perfect<br><br>ὁράω (1)<br><br>see
+ἑώραμαι / ὦμμαι	ἑώρᾱμαι / ὦμμαι: 5 Perfect Passive<br><br>ὁράω (1)<br><br>see
+ὤφθην	ὤφθην: 6 Aorist Passive<br><br>ὁράω (1)<br><br>see
+φέρω	φέρω: 1 Present<br><br>ἤνενγκα / ἤνεγκον (3)<br><br>bring, bear, carry; (mid.) win
+οἴσω	οἴσω: 2 Future<br><br>φέρω (1)<br><br>bring, bear, carry; (mid.) win
+ἤνενγκα / ἤνεγκον	ἤνενγκα / ἤνεγκον: 3 Aorist<br><br>φέρω (1)<br><br>bring, bear, carry; (mid.) win
+ἐνήνοχα	ἐνήνοχα: 4 Perfect<br><br>φέρω (1)<br><br>bring, bear, carry; (mid.) win
+ἐνήνεγμαι	ἐνήνεγμαι: 5 Perfect Passive<br><br>φέρω (1)<br><br>bring, bear, carry; (mid.) win
+ἠνέχθην	ἠνέχθην: 6 Aorist Passive<br><br>φέρω (1)<br><br>bring, bear, carry; (mid.) win
 ἐιμί	ἐιμί: 1 Present<br><br>ἔσομαι (2)<br><br>be
 ἔσομαι	ἔσομαι: 2 Future<br><br>ἐιμί (1)<br><br>be

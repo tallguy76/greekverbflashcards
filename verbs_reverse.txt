@@ -6,7 +6,7 @@
 κελεύω<br><br>6 Aorist Passive;ἐκελεύσθην
 ἔλυσα<br><br>1 Present;λύ̄ω
 λύω<br><br>2 Future;λύ̄σω
-λύω<br><br>3 Aorist;ἔλῡσα
+λύω<br><br>3 Aorist;ἔλῡσα
 λύω<br><br>4 Perfect;λέλυκα
 λύω<br><br>5 Perfect Passive;λέλυμαι
 λύω<br><br>6 Aorist Passive;ἐλύθην
@@ -101,7 +101,7 @@
 κωλύω<br><br>4 Perfect;κεκώλῡκα
 κωλύω<br><br>5 Perfect Passive;κεκώλῡμαι
 κωλύω<br><br>6 Aorist Passive;ἐκωλύ̄θην
-ἐπολίτευσα<br><br>1 Present;πολῑτεύω
+ἐπολίτευσα<br><br>1 Present;πολῑτεύω
 πολιτεύω<br><br>2 Future;πολῑτεύσω
 πολιτεύω<br><br>3 Aorist;ἐπολί̄τευσα
 πολιτεύω<br><br>4 Perfect;πεπολί̄τευκα
@@ -320,9 +320,9 @@
 μετανίσταμαι<br><br>2 Future;μεταναστήσομαι
 μετανίσταμαι<br><br>3 Aorist;μετανέστην
 μετανίσταμαι<br><br>4 Perfect;μετανέστηκα
-ἐμηχανησάμην<br><br>1 Present;μηχανάομαι
+ἐμηχανηάμην<br><br>1 Present;μηχανάομαι
 μηχανῶμαι<br><br>2 Future;μηχανήσομαι
-μηχανῶμαι<br><br>3 Aorist;ἐμηχανησάμην
+μηχανῶμαι<br><br>3 Aorist;ἐμηχανηάμην
 μηχανῶμαι<br><br>5 Perfect Passive;μεμηχάνημαι
 ἔφυγον<br><br>1 Present;φεύγω
 φεύγω<br><br>2 Future;φεύξομαι
@@ -368,5 +368,30 @@
 χαίρω<br><br>2 Future;χαιρήσω
 χαίρω<br><br>4 Perfect;κεχάρηκα
 χαίρω<br><br>6 Aorist Passive;ἐχάρην
+εἷλον<br><br>1 Present;αἱρέω
+αἱρῶ<br><br>2 Future;αἱρήσω
+αἱρῶ<br><br>3 Aorist;εἷλον
+αἱρῶ<br><br>4 Perfect;ᾕρηκα
+αἱρῶ<br><br>5 Perfect Passive;ᾕρημαι
+αἱρῶ<br><br>6 Aorist Passive;ᾑρέθην
+ᾐσθόμην<br><br>1 Present;αἰσθάνομαι
+αἰσθάνομαι<br><br>2 Future;αἰσθήσομαι
+αἰσθάνομαι<br><br>3 Aorist;ᾐσθόμην
+αἰσθάνομαι<br><br>5 Perfect Passive;ᾐσθήμαι
+ἑσπόμην<br><br>1 Present;ἕπομαι
+ἕπομαι<br><br>2 Future;ἕψομαι
+ἕπομαι<br><br>3 Aorist;ἑσπόμην
+εἶδον<br><br>1 Present;ὁράω
+ὁρῶ<br><br>2 Future;ὄψομαι
+ὁρῶ<br><br>3 Aorist;εἶδον
+ὁρῶ<br><br>4 Perfect;ἑόρᾱκα / ἑώρᾱκα
+ὁρῶ<br><br>5 Perfect Passive;ἑώρᾱμαι / ὦμμαι
+ὁρῶ<br><br>6 Aorist Passive;ὤφθην
+ἤνενγκα / ἤνεγκον<br><br>1 Present;φέρω
+φέρω<br><br>2 Future;οἴσω
+φέρω<br><br>3 Aorist;ἤνενγκα / ἤνεγκον
+φέρω<br><br>4 Perfect;ἐνήνοχα
+φέρω<br><br>5 Perfect Passive;ἐνήνεγμαι
+φέρω<br><br>6 Aorist Passive;ἠνέχθην
 ἔσομαι<br><br>1 Present;ἐιμί
 ἐιμί<br><br>2 Future;ἔσομαι
