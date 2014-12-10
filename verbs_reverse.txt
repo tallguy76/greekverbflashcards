@@ -276,13 +276,13 @@
 τίθημι<br><br>3 Aorist;ἔθηκα
 τίθημι<br><br>4 Perfect;τέθηκα
 τίθημι<br><br>5 Perfect Passive;τέθειμαι
-τίθημι<br><br>6 Aorist Passive;ἐτέτην
+τίθημι<br><br>6 Aorist Passive;ἐτέθην
 ἀνέθηκα<br><br>1 Present;ἀνατίθημι
 ἀνατίθημι<br><br>2 Future;ἀναθήσω
 ἀνατίθημι<br><br>3 Aorist;ἀνέθηκα
 ἀνατίθημι<br><br>4 Perfect;ἀνατέθηκα
 ἀνατίθημι<br><br>5 Perfect Passive;ἀνατέθειμαι
-ἀνατίθημι<br><br>6 Aorist Passive;ἀνετέτην
+ἀνατίθημι<br><br>6 Aorist Passive;ἀνετέθην
 ἐφίλησα<br><br>1 Present;φιλέω
 φιλῶ<br><br>2 Future;φιλήσω
 φιλῶ<br><br>3 Aorist;ἐφίλησα

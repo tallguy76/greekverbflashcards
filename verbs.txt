@@ -280,13 +280,13 @@
 ἔθηκα	ἔθηκα: 3 Aorist<br><br>τίθημι (1)<br><br>put
 τέθηκα	τέθηκα: 4 Perfect<br><br>τίθημι (1)<br><br>put
 τέθειμαι	τέθειμαι: 5 Perfect Passive<br><br>τίθημι (1)<br><br>put
-ἐτέτην	ἐτέτην: 6 Aorist Passive<br><br>τίθημι (1)<br><br>put
+ἐτέθην	ἐτέθην: 6 Aorist Passive<br><br>τίθημι (1)<br><br>put
 ἀνατίθημι	ἀνατίθημι: 1 Present<br><br>ἀνέθηκα (3)<br><br>set up, dedicate
 ἀναθήσω	ἀναθήσω: 2 Future<br><br>ἀνατίθημι (1)<br><br>set up, dedicate
 ἀνέθηκα	ἀνέθηκα: 3 Aorist<br><br>ἀνατίθημι (1)<br><br>set up, dedicate
 ἀνατέθηκα	ἀνατέθηκα: 4 Perfect<br><br>ἀνατίθημι (1)<br><br>set up, dedicate
 ἀνατέθειμαι	ἀνατέθειμαι: 5 Perfect Passive<br><br>ἀνατίθημι (1)<br><br>set up, dedicate
-ἀνετέτην	ἀνετέτην: 6 Aorist Passive<br><br>ἀνατίθημι (1)<br><br>set up, dedicate
+ἀνετέθην	ἀνετέθην: 6 Aorist Passive<br><br>ἀνατίθημι (1)<br><br>set up, dedicate
 φιλῶ	φιλέω: 1 Present<br><br>ἐφίλησα (3)<br><br>love
 φιλήσω	φιλήσω: 2 Future<br><br>φιλέω (1)<br><br>love
 ἐφίλησα	ἐφίλησα: 3 Aorist<br><br>φιλέω (1)<br><br>love
