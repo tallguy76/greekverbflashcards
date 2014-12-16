@@ -207,18 +207,18 @@
 βάλλω<br><br>4 Perfect;βέβληκα
 βάλλω<br><br>5 Perfect Passive;βέβλημαι
 βάλλω<br><br>6 Aorist Passive;ἐβλήθην
-βεβούλημαι<br><br>1 Present;βούλομαι
+ἐβουλήθην<br><br>1 Present;βούλομαι
 βούλομαι<br><br>2 Future;βουλήσομαι
-βούλομαι<br><br>5 Perfect Passive;βεβούλημαι
-βούλομαι<br><br>6 Aorist Passive;ἐβουλήθην
+βούλομαι<br><br>3 Aorist;ἐβουλήθην
+βούλομαι<br><br>4 Perfect;βεβούλημαι
 ἐδεξάμην<br><br>1 Present;δέχομαι
 δέχομαι<br><br>2 Future;δέξομαι
 δέχομαι<br><br>3 Aorist;ἐδεξάμην
-δέχομαι<br><br>5 Perfect Passive;δέδεγμαι
+δέχομαι<br><br>4 Perfect;δέδεγμαι
 ἀπεδεξάμην<br><br>1 Present;ἀποδέχομαι
 ἀποδέχομαι<br><br>2 Future;ἀποδέξομαι
 ἀποδέχομαι<br><br>3 Aorist;ἀπεδεξάμην
-ἀποδέχομαι<br><br>5 Perfect Passive;ἀποδέδεγμαι
+ἀποδέχομαι<br><br>4 Perfect;ἀποδέδεγμαι
 ἔλαβον<br><br>1 Present;λαμβάνω
 λαμβάνω<br><br>2 Future;λήψομαι
 λαμβάνω<br><br>3 Aorist;ἔλαβον
@@ -292,10 +292,10 @@
 φιλῶ<br><br>4 Perfect;πεφίληκα
 φιλῶ<br><br>5 Perfect Passive;πεφίλημαι
 φιλῶ<br><br>6 Aorist Passive;ἐφιλήθην
-πεφόβημαι<br><br>1 Present;φοβέομαι
+ἐφοβήθην<br><br>1 Present;φοβέομαι
 φοβοῦμαι<br><br>2 Future;φοβήσομαι
-φοβοῦμαι<br><br>5 Perfect Passive;πεφόβημαι
-φοβοῦμαι<br><br>6 Aorist Passive;ἐφοβήθην
+φοβοῦμαι<br><br>3 Aorist;ἐφοβήθην
+φοβοῦμαι<br><br>4 Perfect;πεφόβημαι
 ἐγενόμην<br><br>1 Present;γίγνομαι
 γίγνομαι<br><br>2 Future;γενήσομαι
 γίγνομαι<br><br>3 Aorist;ἐγενόμην
@@ -312,7 +312,7 @@
 ἐμαχησάμην<br><br>1 Present;μάχομαι
 μάχομαι<br><br>2 Future;μαχοῦμαι
 μάχομαι<br><br>3 Aorist;ἐμαχησάμην
-μάχομαι<br><br>5 Perfect Passive;μεμάχημαι
+μάχομαι<br><br>4 Perfect;μεμάχημαι
 μετέδωκα<br><br>1 Present;μεταδίδωμι
 μεταδίδωμι<br><br>2 Future;μεταδώσω
 μεταδίδωμι<br><br>3 Aorist;μετέδωκα
@@ -326,7 +326,7 @@
 ἐμηχανηάμην<br><br>1 Present;μηχανάομαι
 μηχανῶμαι<br><br>2 Future;μηχανήσομαι
 μηχανῶμαι<br><br>3 Aorist;ἐμηχανηάμην
-μηχανῶμαι<br><br>5 Perfect Passive;μεμηχάνημαι
+μηχανῶμαι<br><br>4 Perfect;μεμηχάνημαι
 ἔφυγον<br><br>1 Present;φεύγω
 φεύγω<br><br>2 Future;φεύξομαι
 φεύγω<br><br>3 Aorist;ἔφυγον
@@ -440,10 +440,10 @@ walk, step, go; (perfect) stand<br><br>1 Present;βαίνω
 δοκῶ<br><br>3 Aorist;ἔδοξα
 δοκῶ<br><br>5 Perfect Passive;δέδογμαι
 δοκῶ<br><br>6 Aorist Passive;ἐδόχθην
-δεδύνημαι<br><br>1 Present;δύναμαι
+ἐδυνήθην<br><br>1 Present;δύναμαι
 δύναμαι<br><br>2 Future;δυνήσομαι
-δύναμαι<br><br>5 Perfect Passive;δεδύνημαι
-δύναμαι<br><br>6 Aorist Passive;ἐδυνήθην
+δύναμαι<br><br>3 Aorist;ἐδυνήθην
+δύναμαι<br><br>4 Perfect;δεδύνημαι
 go, come<br><br>1 Present;εἶμι
 ἤλασα<br><br>1 Present;ἐλαύνω
 ἐλαύνω<br><br>2 Future;ἐλῶ
@@ -451,9 +451,9 @@ go, come<br><br>1 Present;εἶμι
 ἐλαύνω<br><br>4 Perfect;ἐλήλακα
 ἐλαύνω<br><br>5 Perfect Passive;ἐλήλαμαι
 ἐλαύνω<br><br>6 Aorist Passive;ἠλάθην
-ἐπιστήσομαι<br><br>1 Present;ἐπίσταμαι
+ἠπιστήθην<br><br>1 Present;ἐπίσταμαι
 ἐπίσταμαι<br><br>2 Future;ἐπιστήσομαι
-ἐπίσταμαι<br><br>6 Aorist Passive;ἠπιστήθην
+ἐπίσταμαι<br><br>3 Aorist;ἠπιστήθην
 ἔσχον<br><br>1 Present;ἔχω
 ἔχω<br><br>2 Future;ἕξω / σχήσω
 ἔχω<br><br>3 Aorist;ἔσχον

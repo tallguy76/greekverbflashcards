@@ -210,18 +210,18 @@
 βέβληκα	βέβληκα: 4 Perfect<br><br>βάλλω (1)<br><br>throw; hit with projectile
 βέβλημαι	βέβλημαι: 5 Perfect Passive<br><br>βάλλω (1)<br><br>throw; hit with projectile
 ἐβλήθην	ἐβλήθην: 6 Aorist Passive<br><br>βάλλω (1)<br><br>throw; hit with projectile
-βούλομαι	βούλομαι: 1 Present<br><br>βεβούλημαι (5)<br><br>want
+βούλομαι	βούλομαι: 1 Present<br><br>ἐβουλήθην (3)<br><br>want
 βουλήσομαι	βουλήσομαι: 2 Future<br><br>βούλομαι (1)<br><br>want
-βεβούλημαι	βεβούλημαι: 5 Perfect Passive<br><br>βούλομαι (1)<br><br>want
-ἐβουλήθην	ἐβουλήθην: 6 Aorist Passive<br><br>βούλομαι (1)<br><br>want
+ἐβουλήθην	ἐβουλήθην: 3 Aorist<br><br>βούλομαι (1)<br><br>want
+βεβούλημαι	βεβούλημαι: 4 Perfect<br><br>βούλομαι (1)<br><br>want
 δέχομαι	δέχομαι: 1 Present<br><br>ἐδεξάμην (3)<br><br>receive; welcome
 δέξομαι	δέξομαι: 2 Future<br><br>δέχομαι (1)<br><br>receive; welcome
 ἐδεξάμην	ἐδεξάμην: 3 Aorist<br><br>δέχομαι (1)<br><br>receive; welcome
-δέδεγμαι	δέδεγμαι: 5 Perfect Passive<br><br>δέχομαι (1)<br><br>receive; welcome
+δέδεγμαι	δέδεγμαι: 4 Perfect<br><br>δέχομαι (1)<br><br>receive; welcome
 ἀποδέχομαι	ἀποδέχομαι: 1 Present<br><br>ἀπεδεξάμην (3)<br><br>accept, receive favorably
 ἀποδέξομαι	ἀποδέξομαι: 2 Future<br><br>ἀποδέχομαι (1)<br><br>accept, receive favorably
 ἀπεδεξάμην	ἀπεδεξάμην: 3 Aorist<br><br>ἀποδέχομαι (1)<br><br>accept, receive favorably
-ἀποδέδεγμαι	ἀποδέδεγμαι: 5 Perfect Passive<br><br>ἀποδέχομαι (1)<br><br>accept, receive favorably
+ἀποδέδεγμαι	ἀποδέδεγμαι: 4 Perfect<br><br>ἀποδέχομαι (1)<br><br>accept, receive favorably
 λαμβάνω	λαμβάνω: 1 Present<br><br>ἔλαβον (3)<br><br>take
 λήψομαι	λήψομαι: 2 Future<br><br>λαμβάνω (1)<br><br>take
 ἔλαβον	ἔλαβον: 3 Aorist<br><br>λαμβάνω (1)<br><br>take
@@ -295,10 +295,10 @@
 πεφίληκα	πεφίληκα: 4 Perfect<br><br>φιλέω (1)<br><br>love
 πεφίλημαι	πεφίλημαι: 5 Perfect Passive<br><br>φιλέω (1)<br><br>love
 ἐφιλήθην	ἐφιλήθην: 6 Aorist Passive<br><br>φιλέω (1)<br><br>love
-φοβοῦμαι	φοβέομαι: 1 Present<br><br>πεφόβημαι (5)<br><br>fear, be afraid
+φοβοῦμαι	φοβέομαι: 1 Present<br><br>ἐφοβήθην (3)<br><br>fear, be afraid
 φοβήσομαι	φοβήσομαι: 2 Future<br><br>φοβέομαι (1)<br><br>fear, be afraid
-πεφόβημαι	πεφόβημαι: 5 Perfect Passive<br><br>φοβέομαι (1)<br><br>fear, be afraid
-ἐφοβήθην	ἐφοβήθην: 6 Aorist Passive<br><br>φοβέομαι (1)<br><br>fear, be afraid
+ἐφοβήθην	ἐφοβήθην: 3 Aorist<br><br>φοβέομαι (1)<br><br>fear, be afraid
+πεφόβημαι	πεφόβημαι: 4 Perfect<br><br>φοβέομαι (1)<br><br>fear, be afraid
 γίγνομαι	γίγνομαι: 1 Present<br><br>ἐγενόμην (3)<br><br>be born; become; happen
 γενήσομαι	γενήσομαι: 2 Future<br><br>γίγνομαι (1)<br><br>be born; become; happen
 ἐγενόμην	ἐγενόμην: 3 Aorist<br><br>γίγνομαι (1)<br><br>be born; become; happen
@@ -315,7 +315,7 @@
 μάχομαι	μάχομαι: 1 Present<br><br>ἐμαχησάμην (3)<br><br>fight (+D)
 μαχοῦμαι	μαχοῦμαι: 2 Future<br><br>μάχομαι (1)<br><br>fight (+D)
 ἐμαχησάμην	ἐμαχησάμην: 3 Aorist<br><br>μάχομαι (1)<br><br>fight (+D)
-μεμάχημαι	μεμάχημαι: 5 Perfect Passive<br><br>μάχομαι (1)<br><br>fight (+D)
+μεμάχημαι	μεμάχημαι: 4 Perfect<br><br>μάχομαι (1)<br><br>fight (+D)
 μεταδίδωμι	μεταδίδωμι: 1 Present<br><br>μετέδωκα (3)<br><br>give a share to
 μεταδώσω	μεταδώσω: 2 Future<br><br>μεταδίδωμι (1)<br><br>give a share to
 μετέδωκα	μετέδωκα: 3 Aorist<br><br>μεταδίδωμι (1)<br><br>give a share to
@@ -329,7 +329,7 @@
 μηχανῶμαι	μηχανάομαι: 1 Present<br><br>ἐμηχανηάμην (3)<br><br>contrive, devise
 μηχανήσομαι	μηχανήσομαι: 2 Future<br><br>μηχανάομαι (1)<br><br>contrive, devise
 ἐμηχανηάμην	ἐμηχανηάμην: 3 Aorist<br><br>μηχανάομαι (1)<br><br>contrive, devise
-μεμηχάνημαι	μεμηχάνημαι: 5 Perfect Passive<br><br>μηχανάομαι (1)<br><br>contrive, devise
+μεμηχάνημαι	μεμηχάνημαι: 4 Perfect<br><br>μηχανάομαι (1)<br><br>contrive, devise
 φεύγω	φεύγω: 1 Present<br><br>ἔφυγον (3)<br><br>flee; be in exile; be a defendant
 φεύξομαι	φεύξομαι: 2 Future<br><br>φεύγω (1)<br><br>flee; be in exile; be a defendant
 ἔφυγον	ἔφυγον: 3 Aorist<br><br>φεύγω (1)<br><br>flee; be in exile; be a defendant
@@ -451,10 +451,10 @@
 ἔδοξα	ἔδοξα: 3 Aorist<br><br>δοκέω (1)<br><br>seem, think
 δέδογμαι	δέδογμαι: 5 Perfect Passive<br><br>δοκέω (1)<br><br>seem, think
 ἐδόχθην	ἐδόχθην: 6 Aorist Passive<br><br>δοκέω (1)<br><br>seem, think
-δύναμαι	δύναμαι: 1 Present<br><br>δεδύνημαι (5)<br><br>be able
+δύναμαι	δύναμαι: 1 Present<br><br>ἐδυνήθην (3)<br><br>be able
 δυνήσομαι	δυνήσομαι: 2 Future<br><br>δύναμαι (1)<br><br>be able
-δεδύνημαι	δεδύνημαι: 5 Perfect Passive<br><br>δύναμαι (1)<br><br>be able
-ἐδυνήθην	ἐδυνήθην: 6 Aorist Passive<br><br>δύναμαι (1)<br><br>be able
+ἐδυνήθην	ἐδυνήθην: 3 Aorist<br><br>δύναμαι (1)<br><br>be able
+δεδύνημαι	δεδύνημαι: 4 Perfect<br><br>δύναμαι (1)<br><br>be able
 εἶμι	εἶμι: 1 Present<br><br>go, come (0)<br><br>go, come
 ἐλαύνω	ἐλαύνω: 1 Present<br><br>ἤλασα (3)<br><br>drive, march
 ἐλῶ	ἐλῶ: 2 Future<br><br>ἐλαύνω (1)<br><br>drive, march
@@ -462,9 +462,9 @@
 ἐλήλακα	ἐλήλακα: 4 Perfect<br><br>ἐλαύνω (1)<br><br>drive, march
 ἐλήλαμαι	ἐλήλαμαι: 5 Perfect Passive<br><br>ἐλαύνω (1)<br><br>drive, march
 ἠλάθην	ἠλάθην: 6 Aorist Passive<br><br>ἐλαύνω (1)<br><br>drive, march
-ἐπίσταμαι	ἐπίσταμαι: 1 Present<br><br>ἐπιστήσομαι (2)<br><br>know
+ἐπίσταμαι	ἐπίσταμαι: 1 Present<br><br>ἠπιστήθην (3)<br><br>know
 ἐπιστήσομαι	ἐπιστήσομαι: 2 Future<br><br>ἐπίσταμαι (1)<br><br>know
-ἠπιστήθην	ἠπιστήθην: 6 Aorist Passive<br><br>ἐπίσταμαι (1)<br><br>know
+ἠπιστήθην	ἠπιστήθην: 3 Aorist<br><br>ἐπίσταμαι (1)<br><br>know
 ἔχω	ἔχω: 1 Present<br><br>ἔσχον (3)<br><br>have, hold; be able; (+adv.) be; (mid.) cling to, be next to (+G)
 ἕξω	ἕξω / σχήσω: 2 Future<br><br>ἔχω (1)<br><br>have, hold; be able; (+adv.) be; (mid.) cling to, be next to (+G)
 σχήσω	ἕξω / σχήσω: 2 Future<br><br>ἔχω (1)<br><br>have, hold; be able; (+adv.) be; (mid.) cling to, be next to (+G)
