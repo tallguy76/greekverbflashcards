@@ -108,7 +108,7 @@
 ἐπολίτευσα	ἐπολί̄τευσα: 3 Aorist<br><br>πολῑτεύω (1)<br><br>live as a citizen; conduct the government
 πεπολίτευκα	πεπολί̄τευκα: 4 Perfect<br><br>πολῑτεύω (1)<br><br>live as a citizen; conduct the government
 πεπολίτευμαι	πεπολί̄τευμαι: 5 Perfect Passive<br><br>πολῑτεύω (1)<br><br>live as a citizen; conduct the government
-ἐπολιλεύθην	ἐπολῑλεύθην: 6 Aorist Passive<br><br>πολῑτεύω (1)<br><br>live as a citizen; conduct the government
+ἐπολιτεύθην	ἐπολῑτεύθην: 6 Aorist Passive<br><br>πολῑτεύω (1)<br><br>live as a citizen; conduct the government
 χορεύω	χορεύω: 1 Present<br><br>ἐχόρευσα (3)<br><br>dance, perform in a chorus
 χορεύσω	χορεύσω: 2 Future<br><br>χορεύω (1)<br><br>dance, perform in a chorus
 ἐχόρευσα	ἐχόρευσα: 3 Aorist<br><br>χορεύω (1)<br><br>dance, perform in a chorus
@@ -247,11 +247,13 @@
 στήσομαι	στήσομαι: 2 Future<br><br>ἵσταμαι (1)<br><br>stand
 ἔστην	ἔστην: 3 Aorist<br><br>ἵσταμαι (1)<br><br>stand
 ἕστηκα	ἕστηκα: 4 Perfect<br><br>ἵσταμαι (1)<br><br>stand
-ἀφίστημι	ἀφίστημι: 1 Present<br><br>ἀπέστησα / ἀπέστην (3)<br><br>cause to revolt
+ἀφίσταμαι	ἀφίσταμαι: 1 Present<br><br>ἀπέστην (3)<br><br>revolt
+ἀποστήσομαι	ἀποστήσομαι: 2 Future<br><br>ἀφίσταμαι (1)<br><br>revolt
+ἀπέστην	ἀπέστην: 3 Aorist<br><br>ἀφίσταμαι (1)<br><br>revolt
+ἀφέστηκα	ἀφέστηκα: 4 Perfect<br><br>ἀφίσταμαι (1)<br><br>revolt
+ἀφίστημι	ἀφίστημι: 1 Present<br><br>ἀπέστησα (3)<br><br>cause to revolt
 ἀποστήσω	ἀποστήσω: 2 Future<br><br>ἀφίστημι (1)<br><br>cause to revolt
-ἀπέστησα	ἀπέστησα / ἀπέστην: 3 Aorist<br><br>ἀφίστημι (1)<br><br>cause to revolt
-ἀπέστην	ἀπέστησα / ἀπέστην: 3 Aorist<br><br>ἀφίστημι (1)<br><br>cause to revolt
-ἀφέστηκα	ἀφέστηκα: 4 Perfect<br><br>ἀφίστημι (1)<br><br>cause to revolt
+ἀπέστησα	ἀπέστησα: 3 Aorist<br><br>ἀφίστημι (1)<br><br>cause to revolt
 ἀφέσταμαι	ἀφέσταμαι: 5 Perfect Passive<br><br>ἀφίστημι (1)<br><br>cause to revolt
 ἀπεστάθην	ἀπεστάθην: 6 Aorist Passive<br><br>ἀφίστημι (1)<br><br>cause to revolt
 ἀποδίδωμι	ἀποδίδωμι: 1 Present<br><br>ἀπέδωκα (3)<br><br>give back, pay, permit; (mid.) sell
@@ -280,13 +282,13 @@
 ἔθηκα	ἔθηκα: 3 Aorist<br><br>τίθημι (1)<br><br>put
 τέθηκα	τέθηκα: 4 Perfect<br><br>τίθημι (1)<br><br>put
 τέθειμαι	τέθειμαι: 5 Perfect Passive<br><br>τίθημι (1)<br><br>put
-ἐτέθην	ἐτέθην: 6 Aorist Passive<br><br>τίθημι (1)<br><br>put
+ἐτέτην	ἐτέτην: 6 Aorist Passive<br><br>τίθημι (1)<br><br>put
 ἀνατίθημι	ἀνατίθημι: 1 Present<br><br>ἀνέθηκα (3)<br><br>set up, dedicate
 ἀναθήσω	ἀναθήσω: 2 Future<br><br>ἀνατίθημι (1)<br><br>set up, dedicate
 ἀνέθηκα	ἀνέθηκα: 3 Aorist<br><br>ἀνατίθημι (1)<br><br>set up, dedicate
 ἀνατέθηκα	ἀνατέθηκα: 4 Perfect<br><br>ἀνατίθημι (1)<br><br>set up, dedicate
 ἀνατέθειμαι	ἀνατέθειμαι: 5 Perfect Passive<br><br>ἀνατίθημι (1)<br><br>set up, dedicate
-ἀνετέθην	ἀνετέθην: 6 Aorist Passive<br><br>ἀνατίθημι (1)<br><br>set up, dedicate
+ἀνετέτην	ἀνετέτην: 6 Aorist Passive<br><br>ἀνατίθημι (1)<br><br>set up, dedicate
 φιλῶ	φιλέω: 1 Present<br><br>ἐφίλησα (3)<br><br>love
 φιλήσω	φιλήσω: 2 Future<br><br>φιλέω (1)<br><br>love
 ἐφίλησα	ἐφίλησα: 3 Aorist<br><br>φιλέω (1)<br><br>love
@@ -403,3 +405,69 @@
 ἠνέχθην	ἠνέχθην: 6 Aorist Passive<br><br>φέρω (1)<br><br>bring, bear, carry; (mid.) win
 ἐιμί	ἐιμί: 1 Present<br><br>ἔσομαι (2)<br><br>be
 ἔσομαι	ἔσομαι: 2 Future<br><br>ἐιμί (1)<br><br>be
+βαίνω	βαίνω: 1 Present<br><br>walk, step, go; (perfect) stand (0)<br><br>walk, step, go; (perfect) stand
+βέβηκα	βέβηκα: 4 Perfect<br><br>βαίνω (1)<br><br>walk, step, go; (perfect) stand
+ἀναβαίνω	ἀναβαίνω: 1 Present<br><br>ἀνέβην (3)<br><br>go up, go upland; board, mount
+ἀναβήσομαι	ἀναβήσομαι: 2 Future<br><br>ἀναβαίνω (1)<br><br>go up, go upland; board, mount
+ἀνέβην	ἀνέβην: 3 Aorist<br><br>ἀναβαίνω (1)<br><br>go up, go upland; board, mount
+ἀναβέβηκα	ἀναβέβηκα: 4 Perfect<br><br>ἀναβαίνω (1)<br><br>go up, go upland; board, mount
+γιγνώσκω	γιγνώσκω: 1 Present<br><br>ἔγνων (3)<br><br>perceive, recognize, know
+γνώσομαι	γνώσομαι: 2 Future<br><br>γιγνώσκω (1)<br><br>perceive, recognize, know
+ἔγνων	ἔγνων: 3 Aorist<br><br>γιγνώσκω (1)<br><br>perceive, recognize, know
+ἔγνωκα	ἔγνωκα: 4 Perfect<br><br>γιγνώσκω (1)<br><br>perceive, recognize, know
+ἔγνωσμαι	ἔγνωσμαι: 5 Perfect Passive<br><br>γιγνώσκω (1)<br><br>perceive, recognize, know
+ἐγνώσθην	ἐγνώσθην: 6 Aorist Passive<br><br>γιγνώσκω (1)<br><br>perceive, recognize, know
+λέγω	λέγω: 1 Present<br><br>εἶπον / ἔλεξα (3)<br><br>say, speak
+ἐρῶ	ἐρῶ / λέξω: 2 Future<br><br>λέγω (1)<br><br>say, speak
+λέξω	ἐρῶ / λέξω: 2 Future<br><br>λέγω (1)<br><br>say, speak
+εἶπον	εἶπον / ἔλεξα: 3 Aorist<br><br>λέγω (1)<br><br>say, speak
+ἔλεξα	εἶπον / ἔλεξα: 3 Aorist<br><br>λέγω (1)<br><br>say, speak
+εἴρηκα	εἴρηκα: 4 Perfect<br><br>λέγω (1)<br><br>say, speak
+εἴρημαι	εἴρημαι / λέλεγμαι: 5 Perfect Passive<br><br>λέγω (1)<br><br>say, speak
+λέλεγμαι	εἴρημαι / λέλεγμαι: 5 Perfect Passive<br><br>λέγω (1)<br><br>say, speak
+ἐλέχθην	ἐλέχθην / ἐρρήθην: 6 Aorist Passive<br><br>λέγω (1)<br><br>say, speak
+ἐρρήθην	ἐλέχθην / ἐρρήθην: 6 Aorist Passive<br><br>λέγω (1)<br><br>say, speak
+νομίζω	νομίζω: 1 Present<br><br>ἐνόμισα (3)<br><br>consider, think, believe
+νομιῶ	νομιῶ: 2 Future<br><br>νομίζω (1)<br><br>consider, think, believe
+ἐνόμισα	ἐνόμισα: 3 Aorist<br><br>νομίζω (1)<br><br>consider, think, believe
+νενόμικα	νενόμικα: 4 Perfect<br><br>νομίζω (1)<br><br>consider, think, believe
+νενόμισμαι	νενόμισμαι: 5 Perfect Passive<br><br>νομίζω (1)<br><br>consider, think, believe
+ἐνομίσθην	ἐνομίσθην: 6 Aorist Passive<br><br>νομίζω (1)<br><br>consider, think, believe
+πίπτω	πί̄πτω: 1 Present<br><br>ἔπεσον (3)<br><br>fall
+πεσοῦμαι	πεσοῦμαι: 2 Future<br><br>πί̄πτω (1)<br><br>fall
+ἔπεσον	ἔπεσον: 3 Aorist<br><br>πί̄πτω (1)<br><br>fall
+πέπτωκα	πέπτωκα: 4 Perfect<br><br>πί̄πτω (1)<br><br>fall
+φημί	φημί: 1 Present<br><br>ἔφησα (3)<br><br>say, assert, affirm
+φήσω	φήσω: 2 Future<br><br>φημί (1)<br><br>say, assert, affirm
+ἔφησα	ἔφησα: 3 Aorist<br><br>φημί (1)<br><br>say, assert, affirm
+ἁμαρτάνω	ἁμαρτάνω: 1 Present<br><br>ἥμαρτον (3)<br><br>miss (+G); make a mistake, do wrong
+ἁμαρτήσομαι	ἁμαρτήσομαι: 2 Future<br><br>ἁμαρτάνω (1)<br><br>miss (+G); make a mistake, do wrong
+ἥμαρτον	ἥμαρτον: 3 Aorist<br><br>ἁμαρτάνω (1)<br><br>miss (+G); make a mistake, do wrong
+ἡμάρτηκα	ἡμάρτηκα: 4 Perfect<br><br>ἁμαρτάνω (1)<br><br>miss (+G); make a mistake, do wrong
+ἡμάρτημαι	ἡμάρτημαι: 5 Perfect Passive<br><br>ἁμαρτάνω (1)<br><br>miss (+G); make a mistake, do wrong
+ἡμαρτήθην	ἡμαρτήθην: 6 Aorist Passive<br><br>ἁμαρτάνω (1)<br><br>miss (+G); make a mistake, do wrong
+δοκῶ	δοκέω: 1 Present<br><br>ἔδοξα (3)<br><br>seem, think
+δόξω	δόξω: 2 Future<br><br>δοκέω (1)<br><br>seem, think
+ἔδοξα	ἔδοξα: 3 Aorist<br><br>δοκέω (1)<br><br>seem, think
+δέδογμαι	δέδογμαι: 5 Perfect Passive<br><br>δοκέω (1)<br><br>seem, think
+ἐδόχθην	ἐδόχθην: 6 Aorist Passive<br><br>δοκέω (1)<br><br>seem, think
+δύναμαι	δύναμαι: 1 Present<br><br>δεδύνημαι (5)<br><br>be able
+δυνήσομαι	δυνήσομαι: 2 Future<br><br>δύναμαι (1)<br><br>be able
+δεδύνημαι	δεδύνημαι: 5 Perfect Passive<br><br>δύναμαι (1)<br><br>be able
+ἐδυνήθην	ἐδυνήθην: 6 Aorist Passive<br><br>δύναμαι (1)<br><br>be able
+εἶμι	εἶμι: 1 Present<br><br>go, come (0)<br><br>go, come
+ἐλαύνω	ἐλαύνω: 1 Present<br><br>ἤλασα (3)<br><br>drive, march
+ἐλῶ	ἐλῶ: 2 Future<br><br>ἐλαύνω (1)<br><br>drive, march
+ἤλασα	ἤλασα: 3 Aorist<br><br>ἐλαύνω (1)<br><br>drive, march
+ἐλήλακα	ἐλήλακα: 4 Perfect<br><br>ἐλαύνω (1)<br><br>drive, march
+ἐλήλαμαι	ἐλήλαμαι: 5 Perfect Passive<br><br>ἐλαύνω (1)<br><br>drive, march
+ἠλάθην	ἠλάθην: 6 Aorist Passive<br><br>ἐλαύνω (1)<br><br>drive, march
+ἐπίσταμαι	ἐπίσταμαι: 1 Present<br><br>ἐπιστήσομαι (2)<br><br>know
+ἐπιστήσομαι	ἐπιστήσομαι: 2 Future<br><br>ἐπίσταμαι (1)<br><br>know
+ἠπιστήθην	ἠπιστήθην: 6 Aorist Passive<br><br>ἐπίσταμαι (1)<br><br>know
+ἔχω	ἔχω: 1 Present<br><br>ἔσχον (3)<br><br>have, hold; be able; (+adv.) be; (mid.) cling to, be next to (+G)
+ἕξω	ἕξω / σχήσω: 2 Future<br><br>ἔχω (1)<br><br>have, hold; be able; (+adv.) be; (mid.) cling to, be next to (+G)
+σχήσω	ἕξω / σχήσω: 2 Future<br><br>ἔχω (1)<br><br>have, hold; be able; (+adv.) be; (mid.) cling to, be next to (+G)
+ἔσχον	ἔσχον: 3 Aorist<br><br>ἔχω (1)<br><br>have, hold; be able; (+adv.) be; (mid.) cling to, be next to (+G)
+ἔσχηκα	ἔσχηκα: 4 Perfect<br><br>ἔχω (1)<br><br>have, hold; be able; (+adv.) be; (mid.) cling to, be next to (+G)
+ἔσχημαι	ἔσχημαι: 5 Perfect Passive<br><br>ἔχω (1)<br><br>have, hold; be able; (+adv.) be; (mid.) cling to, be next to (+G)

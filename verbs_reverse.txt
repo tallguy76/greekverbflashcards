@@ -106,7 +106,7 @@
 πολιτεύω<br><br>3 Aorist;ἐπολί̄τευσα
 πολιτεύω<br><br>4 Perfect;πεπολί̄τευκα
 πολιτεύω<br><br>5 Perfect Passive;πεπολί̄τευμαι
-πολιτεύω<br><br>6 Aorist Passive;ἐπολῑλεύθην
+πολιτεύω<br><br>6 Aorist Passive;ἐπολῑτεύθην
 ἐχόρευσα<br><br>1 Present;χορεύω
 χορεύω<br><br>2 Future;χορεύσω
 χορεύω<br><br>3 Aorist;ἐχόρευσα
@@ -244,10 +244,13 @@
 ἵσταμαι<br><br>2 Future;στήσομαι
 ἵσταμαι<br><br>3 Aorist;ἔστην
 ἵσταμαι<br><br>4 Perfect;ἕστηκα
-ἀπέστησα / ἀπέστην<br><br>1 Present;ἀφίστημι
+ἀπέστην<br><br>1 Present;ἀφίσταμαι
+ἀφίσταμαι<br><br>2 Future;ἀποστήσομαι
+ἀφίσταμαι<br><br>3 Aorist;ἀπέστην
+ἀφίσταμαι<br><br>4 Perfect;ἀφέστηκα
+ἀπέστησα<br><br>1 Present;ἀφίστημι
 ἀφίστημι<br><br>2 Future;ἀποστήσω
-ἀφίστημι<br><br>3 Aorist;ἀπέστησα / ἀπέστην
-ἀφίστημι<br><br>4 Perfect;ἀφέστηκα
+ἀφίστημι<br><br>3 Aorist;ἀπέστησα
 ἀφίστημι<br><br>5 Perfect Passive;ἀφέσταμαι
 ἀφίστημι<br><br>6 Aorist Passive;ἀπεστάθην
 ἀπέδωκα<br><br>1 Present;ἀποδίδωμι
@@ -276,13 +279,13 @@
 τίθημι<br><br>3 Aorist;ἔθηκα
 τίθημι<br><br>4 Perfect;τέθηκα
 τίθημι<br><br>5 Perfect Passive;τέθειμαι
-τίθημι<br><br>6 Aorist Passive;ἐτέθην
+τίθημι<br><br>6 Aorist Passive;ἐτέτην
 ἀνέθηκα<br><br>1 Present;ἀνατίθημι
 ἀνατίθημι<br><br>2 Future;ἀναθήσω
 ἀνατίθημι<br><br>3 Aorist;ἀνέθηκα
 ἀνατίθημι<br><br>4 Perfect;ἀνατέθηκα
 ἀνατίθημι<br><br>5 Perfect Passive;ἀνατέθειμαι
-ἀνατίθημι<br><br>6 Aorist Passive;ἀνετέθην
+ἀνατίθημι<br><br>6 Aorist Passive;ἀνετέτην
 ἐφίλησα<br><br>1 Present;φιλέω
 φιλῶ<br><br>2 Future;φιλήσω
 φιλῶ<br><br>3 Aorist;ἐφίλησα
@@ -395,3 +398,64 @@
 φέρω<br><br>6 Aorist Passive;ἠνέχθην
 ἔσομαι<br><br>1 Present;ἐιμί
 ἐιμί<br><br>2 Future;ἔσομαι
+walk, step, go; (perfect) stand<br><br>1 Present;βαίνω
+βαίνω<br><br>4 Perfect;βέβηκα
+ἀνέβην<br><br>1 Present;ἀναβαίνω
+ἀναβαίνω<br><br>2 Future;ἀναβήσομαι
+ἀναβαίνω<br><br>3 Aorist;ἀνέβην
+ἀναβαίνω<br><br>4 Perfect;ἀναβέβηκα
+ἔγνων<br><br>1 Present;γιγνώσκω
+γιγνώσκω<br><br>2 Future;γνώσομαι
+γιγνώσκω<br><br>3 Aorist;ἔγνων
+γιγνώσκω<br><br>4 Perfect;ἔγνωκα
+γιγνώσκω<br><br>5 Perfect Passive;ἔγνωσμαι
+γιγνώσκω<br><br>6 Aorist Passive;ἐγνώσθην
+εἶπον / ἔλεξα<br><br>1 Present;λέγω
+λέγω<br><br>2 Future;ἐρῶ / λέξω
+λέγω<br><br>3 Aorist;εἶπον / ἔλεξα
+λέγω<br><br>4 Perfect;εἴρηκα
+λέγω<br><br>5 Perfect Passive;εἴρημαι / λέλεγμαι
+λέγω<br><br>6 Aorist Passive;ἐλέχθην / ἐρρήθην
+ἐνόμισα<br><br>1 Present;νομίζω
+νομίζω<br><br>2 Future;νομιῶ
+νομίζω<br><br>3 Aorist;ἐνόμισα
+νομίζω<br><br>4 Perfect;νενόμικα
+νομίζω<br><br>5 Perfect Passive;νενόμισμαι
+νομίζω<br><br>6 Aorist Passive;ἐνομίσθην
+ἔπεσον<br><br>1 Present;πί̄πτω
+πίπτω<br><br>2 Future;πεσοῦμαι
+πίπτω<br><br>3 Aorist;ἔπεσον
+πίπτω<br><br>4 Perfect;πέπτωκα
+ἔφησα<br><br>1 Present;φημί
+φημί<br><br>2 Future;φήσω
+φημί<br><br>3 Aorist;ἔφησα
+ἥμαρτον<br><br>1 Present;ἁμαρτάνω
+ἁμαρτάνω<br><br>2 Future;ἁμαρτήσομαι
+ἁμαρτάνω<br><br>3 Aorist;ἥμαρτον
+ἁμαρτάνω<br><br>4 Perfect;ἡμάρτηκα
+ἁμαρτάνω<br><br>5 Perfect Passive;ἡμάρτημαι
+ἁμαρτάνω<br><br>6 Aorist Passive;ἡμαρτήθην
+ἔδοξα<br><br>1 Present;δοκέω
+δοκῶ<br><br>2 Future;δόξω
+δοκῶ<br><br>3 Aorist;ἔδοξα
+δοκῶ<br><br>5 Perfect Passive;δέδογμαι
+δοκῶ<br><br>6 Aorist Passive;ἐδόχθην
+δεδύνημαι<br><br>1 Present;δύναμαι
+δύναμαι<br><br>2 Future;δυνήσομαι
+δύναμαι<br><br>5 Perfect Passive;δεδύνημαι
+δύναμαι<br><br>6 Aorist Passive;ἐδυνήθην
+go, come<br><br>1 Present;εἶμι
+ἤλασα<br><br>1 Present;ἐλαύνω
+ἐλαύνω<br><br>2 Future;ἐλῶ
+ἐλαύνω<br><br>3 Aorist;ἤλασα
+ἐλαύνω<br><br>4 Perfect;ἐλήλακα
+ἐλαύνω<br><br>5 Perfect Passive;ἐλήλαμαι
+ἐλαύνω<br><br>6 Aorist Passive;ἠλάθην
+ἐπιστήσομαι<br><br>1 Present;ἐπίσταμαι
+ἐπίσταμαι<br><br>2 Future;ἐπιστήσομαι
+ἐπίσταμαι<br><br>6 Aorist Passive;ἠπιστήθην
+ἔσχον<br><br>1 Present;ἔχω
+ἔχω<br><br>2 Future;ἕξω / σχήσω
+ἔχω<br><br>3 Aorist;ἔσχον
+ἔχω<br><br>4 Perfect;ἔσχηκα
+ἔχω<br><br>5 Perfect Passive;ἔσχημαι
