@@ -150,7 +150,7 @@
 νικῶ<br><br>3 Aorist;ἐνί̄κησα
 νικῶ<br><br>4 Perfect;νενί̄κηκα
 νικῶ<br><br>5 Perfect Passive;νενί̄κημαι
-νικῶ<br><br>6 Aorist Passive;ἐνί̄χήθην
+νικῶ<br><br>6 Aorist Passive;ἐνῑκήθην
 ἐποίησα<br><br>1 Present;ποιέω
 ποιῶ<br><br>3 Aorist;ἐποίησα
 ποιῶ<br><br>4 Perfect;πεποίηκα

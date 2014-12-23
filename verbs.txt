@@ -153,7 +153,7 @@
 ἐνίκησα	ἐνί̄κησα: 3 Aorist<br><br>νῑκάω (1)<br><br>win; conquer
 νενίκηκα	νενί̄κηκα: 4 Perfect<br><br>νῑκάω (1)<br><br>win; conquer
 νενίκημαι	νενί̄κημαι: 5 Perfect Passive<br><br>νῑκάω (1)<br><br>win; conquer
-ἐνίχήθην	ἐνί̄χήθην: 6 Aorist Passive<br><br>νῑκάω (1)<br><br>win; conquer
+ἐνικήθην	ἐνῑκήθην: 6 Aorist Passive<br><br>νῑκάω (1)<br><br>win; conquer
 ποιῶ	ποιέω: 1 Present<br><br>ἐποίησα (3)<br><br>make; do
 ἐποίησα	ἐποίησα: 3 Aorist<br><br>ποιέω (1)<br><br>make; do
 πεποίηκα	πεποίηκα: 4 Perfect<br><br>ποιέω (1)<br><br>make; do
