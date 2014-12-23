@@ -367,10 +367,10 @@
 ἔφθασα / ἔφθην<br><br>1 Present;φθάνω
 φθάνω<br><br>2 Future;φθήσομαι
 φθάνω<br><br>3 Aorist;ἔφθασα / ἔφθην
-χαιρήσω<br><br>1 Present;χαίρω
+ἐχάρην<br><br>1 Present;χαίρω
 χαίρω<br><br>2 Future;χαιρήσω
+χαίρω<br><br>3 Aorist;ἐχάρην
 χαίρω<br><br>4 Perfect;κεχάρηκα
-χαίρω<br><br>6 Aorist Passive;ἐχάρην
 εἷλον<br><br>1 Present;αἱρέω
 αἱρῶ<br><br>2 Future;αἱρήσω
 αἱρῶ<br><br>3 Aorist;εἷλον
@@ -380,7 +380,7 @@
 ᾐσθόμην<br><br>1 Present;αἰσθάνομαι
 αἰσθάνομαι<br><br>2 Future;αἰσθήσομαι
 αἰσθάνομαι<br><br>3 Aorist;ᾐσθόμην
-αἰσθάνομαι<br><br>5 Perfect Passive;ᾐσθήμαι
+αἰσθάνομαι<br><br>4 Perfect;ᾐσθήμαι
 ἑσπόμην<br><br>1 Present;ἕπομαι
 ἕπομαι<br><br>2 Future;ἕψομαι
 ἕπομαι<br><br>3 Aorist;ἑσπόμην

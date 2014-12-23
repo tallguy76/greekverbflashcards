@@ -371,10 +371,10 @@
 φθήσομαι	φθήσομαι: 2 Future<br><br>φθάνω (1)<br><br>act first; be first (in doing something); anticipate (someone)
 ἔφθασα	ἔφθασα / ἔφθην: 3 Aorist<br><br>φθάνω (1)<br><br>act first; be first (in doing something); anticipate (someone)
 ἔφθην	ἔφθασα / ἔφθην: 3 Aorist<br><br>φθάνω (1)<br><br>act first; be first (in doing something); anticipate (someone)
-χαίρω	χαίρω: 1 Present<br><br>χαιρήσω (2)<br><br>rejoice in, take pleasure in, enjoy (+D)
+χαίρω	χαίρω: 1 Present<br><br>ἐχάρην (3)<br><br>rejoice in, take pleasure in, enjoy (+D)
 χαιρήσω	χαιρήσω: 2 Future<br><br>χαίρω (1)<br><br>rejoice in, take pleasure in, enjoy (+D)
+ἐχάρην	ἐχάρην: 3 Aorist<br><br>χαίρω (1)<br><br>rejoice in, take pleasure in, enjoy (+D)
 κεχάρηκα	κεχάρηκα: 4 Perfect<br><br>χαίρω (1)<br><br>rejoice in, take pleasure in, enjoy (+D)
-ἐχάρην	ἐχάρην: 6 Aorist Passive<br><br>χαίρω (1)<br><br>rejoice in, take pleasure in, enjoy (+D)
 αἱρῶ	αἱρέω: 1 Present<br><br>εἷλον (3)<br><br>take, capture; (mid.) choose
 αἱρήσω	αἱρήσω: 2 Future<br><br>αἱρέω (1)<br><br>take, capture; (mid.) choose
 εἷλον	εἷλον: 3 Aorist<br><br>αἱρέω (1)<br><br>take, capture; (mid.) choose
@@ -384,7 +384,7 @@
 αἰσθάνομαι	αἰσθάνομαι: 1 Present<br><br>ᾐσθόμην (3)<br><br>perceive (+G,A)
 αἰσθήσομαι	αἰσθήσομαι: 2 Future<br><br>αἰσθάνομαι (1)<br><br>perceive (+G,A)
 ᾐσθόμην	ᾐσθόμην: 3 Aorist<br><br>αἰσθάνομαι (1)<br><br>perceive (+G,A)
-ᾐσθήμαι	ᾐσθήμαι: 5 Perfect Passive<br><br>αἰσθάνομαι (1)<br><br>perceive (+G,A)
+ᾐσθήμαι	ᾐσθήμαι: 4 Perfect<br><br>αἰσθάνομαι (1)<br><br>perceive (+G,A)
 ἕπομαι	ἕπομαι: 1 Present<br><br>ἑσπόμην (3)<br><br>follow, pursue (+D)
 ἕψομαι	ἕψομαι: 2 Future<br><br>ἕπομαι (1)<br><br>follow, pursue (+D)
 ἑσπόμην	ἑσπόμην: 3 Aorist<br><br>ἕπομαι (1)<br><br>follow, pursue (+D)
