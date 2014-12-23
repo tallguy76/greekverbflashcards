@@ -26,6 +26,8 @@ entries.each do |e|
       5
     elsif pp[2] && pp[2].match(/[α-ωΑ-Ω]/ )
       2
+    elsif pp[4] && pp[4].match(/[α-ωΑ-Ω]/ )
+      4
     else
       0
     end

@@ -405,7 +405,7 @@
 ἠνέχθην	ἠνέχθην: 6 Aorist Passive<br><br>φέρω (1)<br><br>bring, bear, carry; (mid.) win
 ἐιμί	ἐιμί: 1 Present<br><br>ἔσομαι (2)<br><br>be
 ἔσομαι	ἔσομαι: 2 Future<br><br>ἐιμί (1)<br><br>be
-βαίνω	βαίνω: 1 Present<br><br>walk, step, go; (perfect) stand (0)<br><br>walk, step, go; (perfect) stand
+βαίνω	βαίνω: 1 Present<br><br>βέβηκα (4)<br><br>walk, step, go; (perfect) stand
 βέβηκα	βέβηκα: 4 Perfect<br><br>βαίνω (1)<br><br>walk, step, go; (perfect) stand
 ἀναβαίνω	ἀναβαίνω: 1 Present<br><br>ἀνέβην (3)<br><br>go up, go upland; board, mount
 ἀναβήσομαι	ἀναβήσομαι: 2 Future<br><br>ἀναβαίνω (1)<br><br>go up, go upland; board, mount

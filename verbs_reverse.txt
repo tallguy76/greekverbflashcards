@@ -398,7 +398,7 @@
 φέρω<br><br>6 Aorist Passive;ἠνέχθην
 ἔσομαι<br><br>1 Present;ἐιμί
 ἐιμί<br><br>2 Future;ἔσομαι
-walk, step, go; (perfect) stand<br><br>1 Present;βαίνω
+βέβηκα<br><br>1 Present;βαίνω
 βαίνω<br><br>4 Perfect;βέβηκα
 ἀνέβην<br><br>1 Present;ἀναβαίνω
 ἀναβαίνω<br><br>2 Future;ἀναβήσομαι
