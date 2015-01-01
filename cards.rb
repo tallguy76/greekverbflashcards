@@ -17,19 +17,13 @@ entries.each do |e|
   (1..6).each do |i|
     listing = pp[i]
     next unless listing && listing.match(/[α-ωΑ-Ω]/ )
-    alt_index =
-    if i != 1
-      1
-    elsif pp[3] && pp[3].match(/[α-ωΑ-Ω]/ )
-      3
-    elsif pp[5] && pp[5].match(/[α-ωΑ-Ω]/ )
-      5
-    elsif pp[2] && pp[2].match(/[α-ωΑ-Ω]/ )
-      2
-    elsif pp[4] && pp[4].match(/[α-ωΑ-Ω]/ )
-      4
-    else
-      0
+    alt_prefs = [1,3,5,2,4]
+    alt_index = 0
+    alt_prefs.each do |k|
+      if i != k && pp[k] && pp[k].match(/[α-ωΑ-Ω]/ )
+        alt_index = k
+        break
+      end
     end
     listings = listing.split(" / ")
     listings.each do |entry|
